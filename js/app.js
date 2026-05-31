@@ -47,7 +47,12 @@ function whoosh(){ tone(220,0.25,'triangle',0.1); }
 function shuffleSound(){ tone(160,0.18,'sawtooth',0.06); }
 
 /* ---------- Haptic ---------- */
-function vibrate(p){ if(navigator.vibrate) navigator.vibrate(p); }
+function vibrate(p){
+  // Chrome chặn vibration trước user gesture; bỏ qua để production console sạch.
+  if(!navigator.vibrate) return;
+  if(navigator.userActivation && !navigator.userActivation.hasBeenActive) return;
+  try{ navigator.vibrate(p); }catch(e){}
+}
 
 /* ---------- Particles ---------- */
 async function initParticles(){
