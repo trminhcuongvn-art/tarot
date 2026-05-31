@@ -4,56 +4,66 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tarot Huyền Bí · Hỏi Vũ Trụ Một Điều</title>
-  <meta name="description" content="Rút bài Tarot huyền bí trực tuyến — Rút 1 lá hoặc Trải 3 lá Quá khứ - Hiện tại - Tương lai.">
+  <meta name="description" content="Rút bài Tarot Rider-Waite trực tuyến: rút 1 lá hoặc trải 3 lá Quá khứ - Hiện tại - Tương lai, luận giải tiếng Việt.">
+  <meta property="og:title" content="Tarot Huyền Bí · Hỏi Vũ Trụ Một Điều">
+  <meta property="og:description" content="Không gian rút bài Tarot trực tuyến với bộ Rider-Waite và luận giải tiếng Việt.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://trminhcuongvn-art.github.io/tarot/">
+  <meta property="og:image" content="https://trminhcuongvn-art.github.io/tarot/assets/card-back.svg">
 
-  <!-- Google Fonts: Cinzel giữ cho tiêu đề; Be Vietnam Pro + Cormorant Garamond hỗ trợ đầy đủ tiếng Việt -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,400;0,500;0,600;1,400&family=Cinzel:wght@400;600;700&family=Cinzel+Decorative:wght@400;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&display=swap&subset=vietnamese" rel="stylesheet">
-
-  <link rel="stylesheet" href="css/style.css?v=20260531-1831">
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700&family=Cinzel:wght@500;600;700&display=swap&subset=vietnamese" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css?v=20260531-redesign2">
 </head>
 <body>
-  <!-- nền sao + bụi vàng (tsParticles) -->
-  <div id="tsparticles"></div>
+  <div id="tsparticles" aria-hidden="true"></div>
+  <div class="orb orb-a" aria-hidden="true"></div>
+  <div class="orb orb-b" aria-hidden="true"></div>
 
-  <main class="wrap">
-    <header class="hero">
-      <h1>Tarot Huyền Bí</h1>
-      <div class="subtitle">Hỏi Vũ Trụ Một Điều</div>
+  <nav class="mystic-nav reveal" aria-label="Điều hướng Tarot">
+    <a href="#ritual">Nghi lễ</a>
+    <a href="#spread">Trải bài</a>
+    <a href="#readings">Luận giải</a>
+  </nav>
+
+  <main class="wrap" id="ritual">
+    <header class="hero reveal">
+      <p class="eyebrow">Rider-Waite · 78 lá</p>
+      <h1>Tarot huyền bí</h1>
+      <div class="subtitle">Hỏi vũ trụ một điều, để trực giác trả lời trong tĩnh lặng.</div>
     </header>
 
-    <div class="question-box">
-      <input id="question" type="text" placeholder="Thầm hỏi điều bạn muốn biết… (tùy chọn)">
-    </div>
-
-    <div class="controls">
-      <div class="mode-group" role="tablist" aria-label="Chế độ trải bài">
-        <button class="mode-btn active" data-mode="one">Rút 1 Lá</button>
-        <button class="mode-btn" data-mode="three">Trải 3 Lá</button>
+    <section class="altar reveal" aria-label="Khu vực nhập câu hỏi và rút bài">
+      <div class="question-box">
+        <label class="sr-only" for="question">Câu hỏi dành cho trải bài</label>
+        <input id="question" type="text" placeholder="Thầm hỏi điều bạn muốn biết… (tùy chọn)">
       </div>
-      <button id="soundBtn" class="icon-btn off" title="Bật/tắt âm thanh nghi lễ">🔇</button>
-    </div>
 
-    <button id="drawBtn" class="btn-ritual">✦ Bắt Đầu Nghi Lễ ✦</button>
+      <div class="controls" aria-label="Tùy chọn trải bài">
+        <div class="mode-group" role="tablist" aria-label="Chế độ trải bài">
+          <button class="mode-btn active" data-mode="one" type="button">Rút 1 lá</button>
+          <button class="mode-btn" data-mode="three" type="button">Trải 3 lá</button>
+        </div>
+        <button id="soundBtn" class="icon-btn off" title="Bật/tắt âm thanh nghi lễ" type="button" aria-label="Bật hoặc tắt âm thanh">🔇</button>
+      </div>
 
-    <p id="hint" class="hint"></p>
+      <button id="drawBtn" class="btn-ritual" type="button"><span>✦</span><strong>Bắt đầu nghi lễ</strong></button>
+      <p id="hint" class="hint" aria-live="polite"></p>
+    </section>
 
-    <section id="spread" class="spread" aria-live="polite"></section>
+    <section id="spread" class="spread reveal" aria-live="polite" aria-label="Các lá bài đã rút"></section>
+    <section id="readings" class="readings" aria-live="polite" aria-label="Luận giải lá bài"></section>
 
-    <section id="readings" class="readings" aria-live="polite"></section>
-
-    <footer>
+    <footer class="reveal">
       ✦ Bộ bài Rider-Waite · 78 lá · Luận giải tiếng Việt ✦<br>
-      Hỏi vũ trụ một điều — Sự thật được hé lộ, trực giác dẫn lối, những điều ẩn giấu.
+      Sự thật được hé lộ, trực giác dẫn lối, những điều ẩn giấu được soi sáng.
     </footer>
   </main>
 
-  <!-- CDN libraries (no build step) -->
   <script src="https://cdn.jsdelivr.net/npm/@tsparticles/slim@3/tsparticles.slim.bundle.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.2/lib/anime.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.4/howler.min.js"></script>
-
-  <script src="js/app.js?v=20260531-1831"></script>
+  <script src="js/app.js?v=20260531-redesign2"></script>
 </body>
 </html>

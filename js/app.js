@@ -306,3 +306,22 @@ window.addEventListener('DOMContentLoaded', async ()=>{
     document.querySelectorAll('.card').forEach(c=> c.click());
   }
 });
+
+/* High-end redesign: staggered reveal via IntersectionObserver */
+document.addEventListener('DOMContentLoaded', () => {
+  const items = document.querySelectorAll('.reveal');
+  if (!('IntersectionObserver' in window)) {
+    items.forEach((item, index) => setTimeout(() => item.classList.add('in'), index * 90));
+    return;
+  }
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (!entry.isIntersecting) return;
+      const index = Array.from(items).indexOf(entry.target);
+      entry.target.style.transitionDelay = `${Math.max(index, 0) * 70}ms`;
+      entry.target.classList.add('in');
+      observer.unobserve(entry.target);
+    });
+  }, { threshold: 0.12 });
+  items.forEach(item => observer.observe(item));
+});
