@@ -84,7 +84,9 @@ function cardEl(){
     <div class="face face-front">
       <div class="inner">
         <div class="num"></div>
-        <div class="card-illus"></div>
+        <div class="card-illus">
+          <img class="rws-img" alt="" loading="lazy" />
+        </div>
         <div>
           <div class="cname"></div>
           <div class="cname-en"></div>
@@ -96,10 +98,22 @@ function cardEl(){
 
 function fillFront(card, data, reversed){
   const f = card.querySelector('.face-front');
-  const icon = data.arcana==='major' ? MAJOR_ICON : SUIT_ICON[data.suit];
   const suitSym = data.suit ? SUIT_SYMBOL[data.suit] : '✦';
   f.querySelector('.num').textContent = (data.arcana==='major'?'• '+data.number+' •':suitSym);
-  f.querySelector('.card-illus').textContent = icon;
+  const img = f.querySelector('.rws-img');
+  if(data.image){
+    img.src = data.image;
+    img.alt = data.name + ' — ' + data.name_vi;
+    img.style.display = '';
+    // fallback nếu ảnh lỗi: hiện emoji placeholder
+    img.onerror = ()=>{ img.style.display='none';
+      const ico = data.arcana==='major'?MAJOR_ICON:SUIT_ICON[data.suit];
+      f.querySelector('.card-illus').setAttribute('data-fallback', ico); };
+  } else {
+    img.style.display='none';
+    const ico = data.arcana==='major'?MAJOR_ICON:SUIT_ICON[data.suit];
+    f.querySelector('.card-illus').setAttribute('data-fallback', ico);
+  }
   f.querySelector('.cname').textContent = data.name_vi;
   f.querySelector('.cname-en').textContent = data.name;
   if(reversed) f.classList.add('reversed'); else f.classList.remove('reversed');
