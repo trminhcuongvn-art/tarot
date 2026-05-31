@@ -77,9 +77,12 @@ async function loadDeck(){
 function cardEl(){
   const card = document.createElement('div');
   card.className = 'card';
+  card.setAttribute('role', 'button');
+  card.setAttribute('tabindex', '0');
+  card.setAttribute('aria-label', 'Chạm để lật lá bài Tarot');
   card.innerHTML = `
     <div class="face face-back">
-      <object class="back-art" type="image/svg+xml" data="assets/card-back.svg"></object>
+      <img class="back-art" src="assets/card-back.svg" alt="Mặt sau lá bài Tarot" draggable="false" />
     </div>
     <div class="face face-front">
       <div class="inner">
@@ -189,7 +192,11 @@ async function startRitual(){
 
   // bind reveal — sequential for three, immediate clickable
   cards.forEach((c,i)=>{
-    c.addEventListener('click', ()=>revealCard(c, picks[i], mode==='three'?POSITIONS_3[i]:null), { once:true });
+    const reveal = ()=>revealCard(c, picks[i], mode==='three'?POSITIONS_3[i]:null);
+    c.addEventListener('click', reveal, { once:true });
+    c.addEventListener('keydown', (ev)=>{
+      if(ev.key === 'Enter' || ev.key === ' '){ ev.preventDefault(); c.click(); }
+    });
   });
 
   // auto suspense shake loop until revealed
@@ -200,6 +207,9 @@ async function startRitual(){
 }
 
 async function revealCard(card, pick, position){
+  if(card.dataset.revealed === '1') return;
+  card.dataset.revealed = '1';
+  card.setAttribute('aria-label', 'Lá bài đã lật: ' + pick.data.name_vi);
   card.classList.remove('shake');
   card.classList.add('shake');
   vibrate([20,40,30]);
