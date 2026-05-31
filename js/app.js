@@ -191,9 +191,9 @@ async function startRitual(){
   }
 
   await wait(900);
-  $hint().textContent = mode==='one'
-    ? 'Chạm vào lá bài để hé lộ thông điệp của vũ trụ…'
-    : 'Lần lượt chạm từng lá để hé lộ Quá Khứ — Hiện Tại — Tương Lai…';
+  $hint().innerHTML = mode==='one'
+    ? '👆 <strong>Chạm vào lá bài</strong> để hé lộ thông điệp của vũ trụ…'
+    : '👆 <strong>Lần lượt chạm từng lá</strong> để hé lộ Quá Khứ — Hiện Tại — Tương Lai…';
 
   // bind reveal — sequential for three, immediate clickable
   cards.forEach((c,i)=>{
@@ -207,6 +207,14 @@ async function startRitual(){
   // auto suspense shake loop until revealed
   cards.forEach((c,i)=> setTimeout(()=>{ if(!c.classList.contains('flipped')) c.classList.add('shake'); }, 400+i*150));
   cards.forEach(c=> c.addEventListener('animationend',()=>c.classList.remove('shake')));
+
+  // auto-reveal sau 3s nếu user chưa click (UX mobile)
+  if(mode==='one'){
+    setTimeout(async ()=>{
+      const c = cards[0];
+      if(c && !c.classList.contains('flipped')) await revealCard(c, picks[0], null);
+    }, 3000);
+  }
 
   drawing = false;
 }
