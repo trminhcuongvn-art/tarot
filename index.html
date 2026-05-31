@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tarot Huyền Bí · Hỏi Vũ Trụ Một Điều</title>
+  <meta name="description" content="Rút bài Tarot huyền bí trực tuyến — Rút 1 lá hoặc Trải 3 lá Quá khứ - Hiện tại - Tương lai.">
+
+  <!-- Google Fonts: Cinzel + EB Garamond + Cinzel Decorative -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Cinzel+Decorative:wght@400;700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <!-- nền sao + bụi vàng (tsParticles) -->
+  <div id="tsparticles"></div>
+
+  <main class="wrap">
+    <header class="hero">
+      <h1>Tarot Huyền Bí</h1>
+      <div class="subtitle">Hỏi Vũ Trụ Một Điều</div>
+    </header>
+
+    <div class="question-box">
+      <input id="question" type="text" placeholder="Thầm hỏi điều bạn muốn biết… (tùy chọn)">
+    </div>
+
+    <div class="controls">
+      <div class="mode-group" role="tablist" aria-label="Chế độ trải bài">
+        <button class="mode-btn active" data-mode="one">Rút 1 Lá</button>
+        <button class="mode-btn" data-mode="three">Trải 3 Lá</button>
+      </div>
+      <button id="soundBtn" class="icon-btn off" title="Bật/tắt âm thanh nghi lễ">🔇</button>
+    </div>
+
+    <button id="drawBtn" class="btn-ritual">✦ Bắt Đầu Nghi Lễ ✦</button>
+
+    <p id="hint" class="hint"></p>
+
+    <section id="spread" class="spread" aria-live="polite"></section>
+
+    <section id="readings" class="readings" aria-live="polite"></section>
+
+    <footer>
+      ✦ Bộ bài Rider-Waite · 78 lá · Luận giải tiếng Việt ✦<br>
+      MVP — ảnh lá bài hiện là placeholder CSS/SVG, sẽ thay ảnh thật ở bản sau.
+    </footer>
+  </main>
+
+  <!-- CDN libraries (no build step) -->
+  <script src="https://cdn.jsdelivr.net/npm/@tsparticles/slim@3/tsparticles.slim.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.2/lib/anime.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.4/howler.min.js"></script>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

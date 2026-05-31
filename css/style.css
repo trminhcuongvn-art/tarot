@@ -1,0 +1,307 @@
+/* ============================================================
+   TAROT HUYỀN BÍ — MVP stylesheet
+   Tone đã duyệt: nền #0B0A1A/#1A1033, tím #6D28D9, vàng kim #D4AF37
+   Font: Cinzel (heading) + EB Garamond (body) + Cinzel Decorative (tên lá)
+   ============================================================ */
+
+:root{
+  --bg-deep:#0B0A1A;
+  --bg-indigo:#1A1033;
+  --purple:#6D28D9;
+  --purple-royal:#4B2E83;
+  --gold:#D4AF37;
+  --gold-soft:#F5D061;
+  --ivory:#EDE9F5;
+  --muted:#C8C2DC;
+  --wine:#7B1E3B;
+  --card-w:200px;
+  --card-h:340px;
+}
+
+*{box-sizing:border-box;margin:0;padding:0}
+
+html,body{height:100%}
+
+body{
+  font-family:'EB Garamond',Georgia,serif;
+  color:var(--ivory);
+  background:radial-gradient(ellipse at 50% 30%, #1A1033 0%, #0B0A1A 70%);
+  min-height:100vh;
+  overflow-x:hidden;
+  position:relative;
+  line-height:1.6;
+}
+
+/* particle layer behind everything */
+#tsparticles{
+  position:fixed;
+  inset:0;
+  z-index:0;
+}
+
+.wrap{
+  position:relative;
+  z-index:2;
+  max-width:1100px;
+  margin:0 auto;
+  padding:32px 20px 80px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  text-align:center;
+}
+
+/* ---------- Header ---------- */
+.hero h1{
+  font-family:'Cinzel Decorative','Cinzel',serif;
+  font-size:clamp(2rem,6vw,3.6rem);
+  letter-spacing:.04em;
+  background:linear-gradient(180deg,var(--gold-soft),var(--gold));
+  -webkit-background-clip:text;
+  background-clip:text;
+  -webkit-text-fill-color:transparent;
+  text-shadow:0 0 24px rgba(212,175,55,.25);
+  margin-bottom:.3rem;
+}
+.hero .subtitle{
+  font-family:'Cinzel',serif;
+  color:var(--muted);
+  letter-spacing:.18em;
+  text-transform:uppercase;
+  font-size:.78rem;
+  margin-bottom:1.4rem;
+}
+
+/* ---------- Controls ---------- */
+.controls{
+  display:flex;
+  flex-wrap:wrap;
+  gap:14px;
+  justify-content:center;
+  align-items:center;
+  margin:8px 0 26px;
+}
+.mode-group{display:flex;gap:10px;background:rgba(75,46,131,.18);padding:6px;border-radius:999px;border:1px solid rgba(212,175,55,.25)}
+.mode-btn{
+  font-family:'Cinzel',serif;
+  font-size:.82rem;
+  letter-spacing:.05em;
+  color:var(--muted);
+  background:transparent;
+  border:none;
+  padding:9px 18px;
+  border-radius:999px;
+  cursor:pointer;
+  transition:.25s;
+}
+.mode-btn.active{
+  color:#1A1033;
+  background:linear-gradient(180deg,var(--gold-soft),var(--gold));
+  box-shadow:0 0 16px rgba(212,175,55,.5);
+}
+
+.question-box{
+  width:min(520px,90vw);
+  margin:0 auto 22px;
+}
+.question-box input{
+  width:100%;
+  font-family:'EB Garamond',serif;
+  font-size:1.05rem;
+  color:var(--ivory);
+  background:rgba(11,10,26,.6);
+  border:1px solid rgba(212,175,55,.35);
+  border-radius:14px;
+  padding:13px 18px;
+  text-align:center;
+  outline:none;
+  transition:.25s;
+}
+.question-box input::placeholder{color:rgba(200,194,220,.55);font-style:italic}
+.question-box input:focus{border-color:var(--gold);box-shadow:0 0 18px rgba(212,175,55,.3)}
+
+.btn-ritual{
+  font-family:'Cinzel',serif;
+  font-size:1rem;
+  letter-spacing:.08em;
+  color:#1A1033;
+  background:linear-gradient(135deg,var(--gold-soft),var(--gold));
+  border:none;
+  padding:14px 38px;
+  border-radius:999px;
+  cursor:pointer;
+  box-shadow:0 0 22px rgba(212,175,55,.45);
+  transition:transform .2s, box-shadow .2s;
+}
+.btn-ritual:hover{transform:translateY(-2px);box-shadow:0 0 34px rgba(212,175,55,.7)}
+.btn-ritual:active{transform:translateY(0)}
+
+.icon-btn{
+  background:rgba(75,46,131,.25);
+  border:1px solid rgba(212,175,55,.3);
+  color:var(--gold-soft);
+  width:42px;height:42px;border-radius:50%;
+  cursor:pointer;font-size:1.1rem;line-height:1;
+  transition:.25s;
+}
+.icon-btn:hover{background:rgba(109,40,217,.5);box-shadow:0 0 14px rgba(212,175,55,.4)}
+.icon-btn.off{opacity:.45}
+
+/* ---------- Card spread area ---------- */
+.spread{
+  display:flex;
+  flex-wrap:wrap;
+  gap:34px;
+  justify-content:center;
+  align-items:flex-start;
+  margin:26px 0;
+  min-height:360px;
+  perspective:1400px;
+}
+.slot{display:flex;flex-direction:column;align-items:center;gap:12px}
+.slot-label{
+  font-family:'Cinzel',serif;
+  letter-spacing:.12em;
+  font-size:.78rem;
+  text-transform:uppercase;
+  color:var(--gold-soft);
+  opacity:.9;
+}
+
+/* ---------- The card (3D flip) ---------- */
+.card{
+  width:var(--card-w);
+  height:var(--card-h);
+  position:relative;
+  transform-style:preserve-3d;
+  transition:transform .9s cubic-bezier(.6,.05,.28,.91);
+  cursor:pointer;
+}
+.card.flipped{transform:rotateY(180deg)}
+.card.shake{animation:shake .5s ease-in-out}
+
+@keyframes shake{
+  0%,100%{transform:translateX(0)}
+  20%{transform:translateX(-5px) rotate(-1deg)}
+  40%{transform:translateX(5px) rotate(1deg)}
+  60%{transform:translateX(-4px) rotate(-1deg)}
+  80%{transform:translateX(4px) rotate(1deg)}
+}
+
+.face{
+  position:absolute;
+  inset:0;
+  border-radius:16px;
+  backface-visibility:hidden;
+  -webkit-backface-visibility:hidden;
+  overflow:hidden;
+  box-shadow:0 8px 30px rgba(0,0,0,.55);
+}
+
+/* ----- Card BACK (placeholder họa tiết vàng-tím, CSS/SVG) -----
+   GHI CHÚ: đây là mặt sau placeholder. Khi có ảnh thật, thay
+   .face-back background bằng url('../assets/card-back.png') */
+.face-back{
+  background:
+    radial-gradient(circle at 50% 50%, rgba(212,175,55,.18), transparent 60%),
+    linear-gradient(135deg,#2A1A52,#1A1033 60%,#0B0A1A);
+  border:2px solid var(--gold);
+  display:flex;align-items:center;justify-content:center;
+}
+.face-back .back-art{width:88%;height:92%;opacity:.95}
+
+/* ----- Card FRONT (CSS-generated khung viền vàng + tên + suit)
+   GHI CHÚ: đây là mặt trước placeholder, render bằng CSS.
+   Khi có ảnh raster 78 lá thật, chèn <img> vào .card-illus
+   và đặt file vào /assets/cards/<id>.webp */
+.face-front{
+  transform:rotateY(180deg);
+  background:linear-gradient(160deg,#241640,#160c2e);
+  border:2px solid var(--gold);
+  display:flex;flex-direction:column;
+  padding:10px;
+}
+.face-front .inner{
+  flex:1;
+  border:1px solid rgba(212,175,55,.55);
+  border-radius:10px;
+  display:flex;flex-direction:column;
+  align-items:center;justify-content:space-between;
+  padding:14px 10px;
+  background:radial-gradient(circle at 50% 35%, rgba(109,40,217,.35), transparent 65%);
+}
+.face-front .num{
+  font-family:'Cinzel',serif;
+  font-size:.72rem;letter-spacing:.2em;color:var(--gold-soft);
+}
+.card-illus{
+  font-size:3.4rem;
+  filter:drop-shadow(0 0 12px rgba(212,175,55,.6));
+  margin:6px 0;
+}
+.face-front .cname{
+  font-family:'Cinzel Decorative','Cinzel',serif;
+  font-size:1rem;line-height:1.25;color:var(--gold);
+  text-shadow:0 0 10px rgba(212,175,55,.4);
+}
+.face-front .cname-en{
+  font-family:'Cinzel',serif;font-size:.62rem;letter-spacing:.12em;
+  color:var(--muted);text-transform:uppercase;margin-top:3px;
+}
+.face-front.reversed .inner{transform:rotate(180deg)}
+
+/* glow aura when revealed */
+.card.flipped .face-front{
+  animation:auraPulse 2.6s ease-in-out infinite;
+}
+@keyframes auraPulse{
+  0%,100%{box-shadow:0 0 18px rgba(109,40,217,.5),0 0 34px rgba(212,175,55,.25)}
+  50%{box-shadow:0 0 30px rgba(109,40,217,.8),0 0 54px rgba(212,175,55,.5)}
+}
+
+/* ---------- Reading result ---------- */
+.readings{
+  width:min(900px,95vw);
+  margin-top:30px;
+  display:flex;flex-direction:column;gap:20px;
+}
+.reading-card{
+  background:linear-gradient(180deg,rgba(36,22,64,.78),rgba(11,10,26,.82));
+  border:1px solid rgba(212,175,55,.4);
+  border-radius:18px;
+  padding:22px 26px;
+  text-align:left;
+  box-shadow:0 6px 26px rgba(0,0,0,.45);
+  opacity:0;transform:translateY(18px);
+  animation:rise .7s forwards;
+}
+@keyframes rise{to{opacity:1;transform:translateY(0)}}
+.reading-card h3{
+  font-family:'Cinzel Decorative','Cinzel',serif;
+  color:var(--gold);font-size:1.4rem;margin-bottom:2px;
+}
+.reading-card .pos{
+  font-family:'Cinzel',serif;font-size:.74rem;letter-spacing:.14em;
+  color:var(--purple);text-transform:uppercase;
+}
+.reading-card .orient{
+  display:inline-block;font-size:.78rem;font-family:'Cinzel',serif;
+  letter-spacing:.08em;padding:2px 10px;border-radius:999px;margin:8px 0;
+}
+.orient.up{background:rgba(212,175,55,.2);color:var(--gold-soft);border:1px solid rgba(212,175,55,.5)}
+.orient.rev{background:rgba(123,30,59,.3);color:#e89fb2;border:1px solid rgba(123,30,59,.6)}
+.reading-card .kw{margin:8px 0;color:var(--muted);font-style:italic}
+.reading-card .kw span{
+  display:inline-block;margin:3px 5px 0 0;padding:2px 10px;
+  background:rgba(109,40,217,.22);border-radius:999px;font-size:.86rem;
+}
+.reading-card p.meaning{font-size:1.08rem;color:var(--ivory)}
+
+.hint{color:var(--muted);font-style:italic;margin-top:6px;font-size:.95rem;min-height:1.4em}
+
+footer{margin-top:48px;color:rgba(200,194,220,.5);font-size:.8rem;font-family:'Cinzel',serif;letter-spacing:.06em}
+
+@media(max-width:640px){
+  :root{--card-w:150px;--card-h:255px}
+  .spread{gap:18px}
+}

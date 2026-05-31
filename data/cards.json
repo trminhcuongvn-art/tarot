@@ -1,0 +1,1742 @@
+[
+ {
+  "id": 0,
+  "name": "The Fool",
+  "name_vi": "Gã Khờ",
+  "arcana": "major",
+  "number": 0,
+  "upright_keywords": [
+   "khởi đầu mới",
+   "ngây thơ",
+   "phiêu lưu",
+   "tự do",
+   "tin tưởng"
+  ],
+  "reversed_keywords": [
+   "liều lĩnh",
+   "ngây ngô",
+   "thiếu cân nhắc",
+   "sợ thay đổi",
+   "bốc đồng"
+  ],
+  "upright": "Gã Khờ mở ra một chương hoàn toàn mới với trái tim rộng mở và niềm tin vào vũ trụ. Đây là thời điểm để dấn thân, dám bước đi dù chưa thấy hết con đường phía trước. Sự ngây thơ ở đây là sức mạnh, giúp bạn đón nhận trải nghiệm mà không bị nỗi sợ trói buộc. Hãy tin vào trực giác và để hành trình tự nó mở ra.",
+  "reversed": "Gã Khờ ngược cảnh báo về sự bốc đồng và những quyết định thiếu suy nghĩ. Có thể bạn đang lao vào điều gì đó mà chưa cân nhắc hậu quả, hoặc ngược lại đang quá sợ hãi nên chùn bước trước cơ hội. Hãy dừng lại đôi chút để nhìn rõ trước khi nhảy. Cân bằng giữa táo bạo và thận trọng là bài học lúc này."
+ },
+ {
+  "id": 1,
+  "name": "The Magician",
+  "name_vi": "Pháp Sư",
+  "arcana": "major",
+  "number": 1,
+  "upright_keywords": [
+   "sức mạnh ý chí",
+   "sáng tạo",
+   "biểu lộ",
+   "tài năng",
+   "hành động"
+  ],
+  "reversed_keywords": [
+   "thao túng",
+   "lừa dối",
+   "tiềm năng lãng phí",
+   "thiếu tập trung",
+   "ảo tưởng"
+  ],
+  "upright": "Pháp Sư cho thấy bạn đang sở hữu đủ mọi công cụ và tài năng để biến ý tưởng thành hiện thực. Đây là lúc của hành động có chủ đích, khi ý chí và nguồn lực hội tụ. Hãy tin rằng bạn có khả năng tạo ra điều mình mong muốn nếu tập trung năng lượng đúng hướng. Vũ trụ đang trao quyền sáng tạo vào tay bạn.",
+  "reversed": "Pháp Sư ngược nói về tiềm năng bị lãng phí hoặc bị dùng sai mục đích. Có thể bạn đang trì hoãn, thiếu tập trung, hoặc bị cám dỗ dùng tài năng để thao túng người khác. Cũng có thể ai đó quanh bạn đang không trung thực. Hãy soi lại động cơ và dùng năng lực của mình một cách chân chính."
+ },
+ {
+  "id": 2,
+  "name": "The High Priestess",
+  "name_vi": "Nữ Tư Tế",
+  "arcana": "major",
+  "number": 2,
+  "upright_keywords": [
+   "trực giác",
+   "bí ẩn",
+   "tiềm thức",
+   "tĩnh lặng",
+   "trí tuệ nội tâm"
+  ],
+  "reversed_keywords": [
+   "bí mật che giấu",
+   "ngắt kết nối trực giác",
+   "bề ngoài",
+   "ồn ào nội tâm",
+   "phớt lờ tiếng lòng"
+  ],
+  "upright": "Nữ Tư Tế mời gọi bạn lắng nghe tiếng nói thầm lặng bên trong. Câu trả lời bạn tìm kiếm không nằm ở logic mà ở trực giác và tiềm thức. Đây là thời điểm để tĩnh lặng, quan sát và tin vào những gì bạn cảm nhận chứ chưa thể giải thích. Những bí ẩn sẽ dần hé lộ nếu bạn đủ kiên nhẫn.",
+  "reversed": "Nữ Tư Tế ngược cho thấy bạn đang ngắt kết nối với trực giác của chính mình, chạy theo lý trí bề ngoài hoặc ý kiến người khác. Có thể có bí mật đang bị che giấu, hoặc bạn đang phớt lờ tiếng lòng. Hãy quay vào trong, tạo không gian yên tĩnh để nghe lại bản thân. Sự thật ẩn giấu cần được nhìn nhận."
+ },
+ {
+  "id": 3,
+  "name": "The Empress",
+  "name_vi": "Nữ Hoàng",
+  "arcana": "major",
+  "number": 3,
+  "upright_keywords": [
+   "sung túc",
+   "nuôi dưỡng",
+   "sáng tạo",
+   "sinh sôi",
+   "thiên nhiên"
+  ],
+  "reversed_keywords": [
+   "phụ thuộc",
+   "tắc nghẽn sáng tạo",
+   "bỏ bê bản thân",
+   "quá bao bọc",
+   "mất cân bằng"
+  ],
+  "upright": "Nữ Hoàng tượng trưng cho sự sung túc, nuôi dưỡng và năng lượng sáng tạo dồi dào. Đây là giai đoạn vạn vật sinh sôi, các dự án và mối quan hệ nở hoa. Hãy chăm sóc bản thân và những gì bạn yêu thương bằng tình yêu và sự dịu dàng. Vẻ đẹp, cảm xúc và sự phong nhiêu đang bao quanh bạn.",
+  "reversed": "Nữ Hoàng ngược cảnh báo về sự mất cân bằng trong việc cho và nhận. Có thể bạn đang bỏ bê chính mình vì lo cho người khác, hoặc ngược lại quá phụ thuộc. Năng lượng sáng tạo có thể bị tắc nghẽn. Hãy quay về chăm sóc nhu cầu của bản thân và khơi lại nguồn cảm hứng đang ngủ quên."
+ },
+ {
+  "id": 4,
+  "name": "The Emperor",
+  "name_vi": "Hoàng Đế",
+  "arcana": "major",
+  "number": 4,
+  "upright_keywords": [
+   "quyền lực",
+   "cấu trúc",
+   "kỷ luật",
+   "ổn định",
+   "lãnh đạo"
+  ],
+  "reversed_keywords": [
+   "độc đoán",
+   "cứng nhắc",
+   "thiếu kỷ luật",
+   "lạm quyền",
+   "mất kiểm soát"
+  ],
+  "upright": "Hoàng Đế đại diện cho quyền lực, trật tự và sự ổn định được xây dựng bằng kỷ luật. Đây là lúc thiết lập cấu trúc rõ ràng, đặt ra quy tắc và nắm quyền chủ động trong cuộc sống của bạn. Khả năng lãnh đạo và lý trí vững vàng sẽ đưa bạn đến thành công. Hãy hành động có kế hoạch và trách nhiệm.",
+  "reversed": "Hoàng Đế ngược cảnh báo về sự độc đoán, cứng nhắc hoặc lạm dụng quyền lực. Có thể bạn đang quá kiểm soát, hoặc đang chịu đựng một quyền lực áp đặt từ bên ngoài. Ngược lại, có thể bạn đang thiếu kỷ luật và để mọi thứ hỗn loạn. Hãy tìm lại sự cân bằng giữa cứng rắn và linh hoạt."
+ },
+ {
+  "id": 5,
+  "name": "The Hierophant",
+  "name_vi": "Giáo Hoàng",
+  "arcana": "major",
+  "number": 5,
+  "upright_keywords": [
+   "truyền thống",
+   "tâm linh",
+   "giáo dục",
+   "quy chuẩn",
+   "cố vấn"
+  ],
+  "reversed_keywords": [
+   "nổi loạn",
+   "phá vỡ quy tắc",
+   "giáo điều",
+   "tự do tư tưởng",
+   "đi ngược truyền thống"
+  ],
+  "upright": "Giáo Hoàng đại diện cho truyền thống, tri thức được truyền thừa và những giá trị tinh thần vững bền. Đây có thể là lúc bạn tìm đến một người thầy, một cố vấn hoặc một hệ thống niềm tin để định hướng. Việc tuân theo những con đường đã được kiểm chứng sẽ mang lại sự an toàn. Hãy học hỏi từ trí tuệ của những người đi trước.",
+  "reversed": "Giáo Hoàng ngược nói về tinh thần nổi loạn và mong muốn phá vỡ những quy tắc cũ kỹ. Bạn có thể đang đặt câu hỏi cho những niềm tin được áp đặt và muốn tìm con đường riêng. Đây là lời mời để tư duy độc lập thay vì mù quáng theo giáo điều. Hãy giữ điều giá trị và buông bỏ những gì không còn phù hợp."
+ },
+ {
+  "id": 6,
+  "name": "The Lovers",
+  "name_vi": "Cặp Tình Nhân",
+  "arcana": "major",
+  "number": 6,
+  "upright_keywords": [
+   "tình yêu",
+   "kết nối",
+   "hài hòa",
+   "lựa chọn",
+   "giá trị"
+  ],
+  "reversed_keywords": [
+   "mâu thuẫn",
+   "mất cân bằng",
+   "lựa chọn sai",
+   "chia ly",
+   "giá trị xung đột"
+  ],
+  "upright": "Cặp Tình Nhân tượng trưng cho tình yêu sâu sắc, sự kết nối và những lựa chọn quan trọng từ trái tim. Đây là lúc các mối quan hệ trở nên hài hòa và ý nghĩa. Lá bài cũng nói về việc đứng trước một quyết định cần sự thành thật với giá trị cốt lõi của bạn. Hãy chọn điều khiến tâm hồn bạn cộng hưởng.",
+  "reversed": "Cặp Tình Nhân ngược cho thấy mâu thuẫn trong quan hệ hoặc sự mất cân bằng nội tâm. Có thể bạn đang đối mặt với một lựa chọn khó khăn, hoặc các giá trị của bạn và người khác đang xung đột. Một mối quan hệ có thể rạn nứt hoặc thiếu hài hòa. Hãy nhìn lại điều mình thực sự coi trọng trước khi quyết định."
+ },
+ {
+  "id": 7,
+  "name": "The Chariot",
+  "name_vi": "Cỗ Xe",
+  "arcana": "major",
+  "number": 7,
+  "upright_keywords": [
+   "ý chí",
+   "chiến thắng",
+   "quyết tâm",
+   "kiểm soát",
+   "tiến lên"
+  ],
+  "reversed_keywords": [
+   "mất phương hướng",
+   "thiếu tự chủ",
+   "trì trệ",
+   "mâu thuẫn nội tâm",
+   "bỏ cuộc"
+  ],
+  "upright": "Cỗ Xe báo hiệu chiến thắng đến từ ý chí mạnh mẽ và sự quyết tâm. Bạn đang nắm quyền kiểm soát những lực đối nghịch và lèo lái chúng về một hướng. Đây là lúc tập trung, kỷ luật và tiến lên phía trước với sự tự tin. Thành công thuộc về người dám cầm cương cuộc đời mình.",
+  "reversed": "Cỗ Xe ngược cho thấy sự mất phương hướng và thiếu tự chủ. Có thể bạn đang bị kéo về nhiều phía, mất kiểm soát, hoặc cảm thấy mọi nỗ lực đều trì trệ. Mâu thuẫn nội tâm khiến bạn khó tiến lên. Hãy xác định lại mục tiêu và lấy lại sự tập trung trước khi tiếp tục."
+ },
+ {
+  "id": 8,
+  "name": "Strength",
+  "name_vi": "Sức Mạnh",
+  "arcana": "major",
+  "number": 8,
+  "upright_keywords": [
+   "dũng cảm",
+   "kiên nhẫn",
+   "tự chủ",
+   "lòng trắc ẩn",
+   "sức mạnh nội tâm"
+  ],
+  "reversed_keywords": [
+   "nghi ngờ bản thân",
+   "yếu đuối",
+   "mất kiểm soát",
+   "nóng giận",
+   "bất an"
+  ],
+  "upright": "Sức Mạnh không phải bằng vũ lực mà bằng sự dịu dàng, kiên nhẫn và lòng can đảm từ bên trong. Bạn đang thuần phục những bản năng và cảm xúc mạnh mẽ bằng tình yêu chứ không phải sự đè nén. Đây là sức mạnh đích thực: bình tĩnh trước nghịch cảnh và đối diện thử thách với trái tim vững vàng. Hãy tin vào nội lực của mình.",
+  "reversed": "Sức Mạnh ngược phản ánh sự nghi ngờ bản thân, bất an hoặc cảm giác mất kiểm soát cảm xúc. Có thể bạn đang để nỗi sợ và cơn nóng giận chi phối. Năng lượng nội tâm đang cạn kiệt. Hãy nhẹ nhàng với chính mình, hồi phục lòng tự tin từng chút một và tìm lại sự bình an bên trong."
+ },
+ {
+  "id": 9,
+  "name": "The Hermit",
+  "name_vi": "Ẩn Sĩ",
+  "arcana": "major",
+  "number": 9,
+  "upright_keywords": [
+   "nội quan",
+   "tìm kiếm chân lý",
+   "cô độc",
+   "trí tuệ",
+   "hướng dẫn"
+  ],
+  "reversed_keywords": [
+   "cô lập",
+   "trốn tránh",
+   "lạc lối",
+   "cô đơn quá mức",
+   "từ chối giúp đỡ"
+  ],
+  "upright": "Ẩn Sĩ mời bạn lui về tĩnh lặng để tìm kiếm sự thật bên trong. Đây là thời điểm của sự nội quan, suy ngẫm và soi sáng con đường bằng ngọn đèn trí tuệ của chính mình. Đôi khi cần rời xa ồn ào để nghe rõ tiếng nói tâm hồn. Những câu trả lời quan trọng nằm trong sự cô độc tự nguyện.",
+  "reversed": "Ẩn Sĩ ngược cảnh báo sự cô lập đã đi quá xa, biến thành trốn tránh và cô đơn. Có thể bạn đang khép mình quá mức, từ chối sự giúp đỡ hoặc lạc lối trong suy nghĩ. Đã đến lúc bước ra, kết nối lại với thế giới. Sự khôn ngoan cần được chia sẻ chứ không phải giấu kín mãi."
+ },
+ {
+  "id": 10,
+  "name": "Wheel of Fortune",
+  "name_vi": "Bánh Xe Số Phận",
+  "arcana": "major",
+  "number": 10,
+  "upright_keywords": [
+   "vận may",
+   "chu kỳ",
+   "bước ngoặt",
+   "định mệnh",
+   "thay đổi"
+  ],
+  "reversed_keywords": [
+   "xui xẻo",
+   "kháng cự thay đổi",
+   "chu kỳ xấu",
+   "mất kiểm soát",
+   "trì hoãn"
+  ],
+  "upright": "Bánh Xe Số Phận quay tới một bước ngoặt may mắn trong cuộc đời bạn. Mọi thứ đang chuyển động theo chu kỳ tự nhiên và vận mệnh đang mỉm cười. Đây là lúc đón nhận thay đổi với tâm thế cởi mở, vì điều tốt đẹp đang đến. Hãy nhớ rằng cuộc sống luôn vận động, và giờ là lúc của bạn.",
+  "reversed": "Bánh Xe Số Phận ngược cho thấy bạn đang ở khúc xuống của chu kỳ hoặc kháng cự lại sự thay đổi tất yếu. Có thể vận xui tạm thời hoặc cảm giác mọi thứ ngoài tầm kiểm soát. Đừng tuyệt vọng, bánh xe sẽ tiếp tục quay. Hãy buông bỏ những gì không thể kiểm soát và học bài học từ chu kỳ này."
+ },
+ {
+  "id": 11,
+  "name": "Justice",
+  "name_vi": "Công Lý",
+  "arcana": "major",
+  "number": 11,
+  "upright_keywords": [
+   "công bằng",
+   "sự thật",
+   "trách nhiệm",
+   "nhân quả",
+   "cân bằng"
+  ],
+  "reversed_keywords": [
+   "bất công",
+   "trốn tránh trách nhiệm",
+   "thiên vị",
+   "không trung thực",
+   "hậu quả"
+  ],
+  "upright": "Công Lý nhắc nhở về luật nhân quả: mọi hành động đều mang lại hệ quả tương xứng. Đây là lúc của sự thật, công bằng và những quyết định cần được cân nhắc khách quan. Hãy chịu trách nhiệm cho lựa chọn của mình và hành động ngay thẳng. Sự minh bạch và chính trực sẽ dẫn đến kết quả công bằng.",
+  "reversed": "Công Lý ngược cho thấy sự bất công, thiên vị hoặc né tránh trách nhiệm. Có thể bạn đang không thành thật với chính mình hoặc đang gánh chịu một sự đối xử không công bằng. Cũng có thể bạn đang trốn tránh hậu quả của hành động cũ. Hãy đối diện sự thật và sửa chữa những điều lệch lạc."
+ },
+ {
+  "id": 12,
+  "name": "The Hanged Man",
+  "name_vi": "Người Treo Ngược",
+  "arcana": "major",
+  "number": 12,
+  "upright_keywords": [
+   "buông bỏ",
+   "góc nhìn mới",
+   "tạm dừng",
+   "hy sinh",
+   "giác ngộ"
+  ],
+  "reversed_keywords": [
+   "bế tắc",
+   "chần chừ",
+   "kháng cự",
+   "hy sinh vô ích",
+   "trì hoãn"
+  ],
+  "upright": "Người Treo Ngược dạy về sức mạnh của việc buông bỏ và nhìn mọi thứ từ một góc độ hoàn toàn mới. Đây là thời điểm tạm dừng, đầu hàng dòng chảy thay vì cưỡng lại. Đôi khi sự hy sinh nhỏ hay khoảng lặng lại mở ra sự thấu hiểu sâu sắc. Hãy kiên nhẫn và để góc nhìn mới đến với bạn.",
+  "reversed": "Người Treo Ngược ngược phản ánh sự bế tắc, chần chừ và kháng cự thay đổi cần thiết. Có thể bạn đang mắc kẹt trong tình trạng trì trệ, hoặc đang hy sinh một cách vô ích mà không thu được gì. Đã đến lúc hành động hoặc thay đổi góc nhìn. Đừng để bản thân treo lơ lửng mãi mà không tiến lên."
+ },
+ {
+  "id": 13,
+  "name": "Death",
+  "name_vi": "Cái Chết",
+  "arcana": "major",
+  "number": 13,
+  "upright_keywords": [
+   "kết thúc",
+   "chuyển hóa",
+   "tái sinh",
+   "buông bỏ",
+   "khởi đầu mới"
+  ],
+  "reversed_keywords": [
+   "kháng cự thay đổi",
+   "trì hoãn kết thúc",
+   "mắc kẹt",
+   "sợ buông bỏ",
+   "đình trệ"
+  ],
+  "upright": "Cái Chết hiếm khi mang nghĩa đen, mà là sự kết thúc một chương để mở ra chương mới. Đây là quá trình chuyển hóa sâu sắc: buông bỏ cái cũ để tái sinh thành phiên bản tốt hơn. Dù chia tay luôn khó khăn, sự thay đổi này là cần thiết và mang tính giải phóng. Hãy đón nhận sự tái sinh đang chờ đợi.",
+  "reversed": "Cái Chết ngược cho thấy bạn đang kháng cự một sự kết thúc tất yếu, bám víu vào điều đã hết vai trò. Sự sợ hãi buông bỏ khiến bạn mắc kẹt và đình trệ. Càng níu giữ, đau khổ càng kéo dài. Hãy can đảm chấp nhận thay đổi để dòng chảy cuộc sống tiếp tục."
+ },
+ {
+  "id": 14,
+  "name": "Temperance",
+  "name_vi": "Tiết Độ",
+  "arcana": "major",
+  "number": 14,
+  "upright_keywords": [
+   "cân bằng",
+   "điều độ",
+   "kiên nhẫn",
+   "hòa hợp",
+   "chữa lành"
+  ],
+  "reversed_keywords": [
+   "mất cân bằng",
+   "thái quá",
+   "thiếu kiên nhẫn",
+   "xung đột",
+   "bất hòa"
+  ],
+  "upright": "Tiết Độ ca ngợi nghệ thuật cân bằng, điều độ và sự pha trộn hài hòa giữa các yếu tố đối lập. Đây là lúc tìm điểm trung dung, kiên nhẫn dung hòa các mặt trong cuộc sống. Sự chữa lành đến từ việc không quá nóng vội cũng không quá thụ động. Hãy bước đi với nhịp điệu ổn định và an nhiên.",
+  "reversed": "Tiết Độ ngược báo hiệu sự mất cân bằng và thái quá. Có thể bạn đang sa đà vào một thái cực, thiếu kiên nhẫn hoặc gặp xung đột nội tâm. Mọi thứ dường như chệch nhịp và bất hòa. Hãy chậm lại, tìm về sự điều độ và khôi phục lại sự hài hòa đã mất."
+ },
+ {
+  "id": 15,
+  "name": "The Devil",
+  "name_vi": "Ác Quỷ",
+  "arcana": "major",
+  "number": 15,
+  "upright_keywords": [
+   "ràng buộc",
+   "cám dỗ",
+   "nghiện ngập",
+   "vật chất",
+   "bóng tối nội tâm"
+  ],
+  "reversed_keywords": [
+   "giải thoát",
+   "phá bỏ xiềng xích",
+   "nhận thức",
+   "tự do",
+   "vượt qua cám dỗ"
+  ],
+  "upright": "Ác Quỷ phản chiếu những ràng buộc và xiềng xích mà bạn tự trói buộc mình: cám dỗ, nghiện ngập, hay sự lệ thuộc vào vật chất và dục vọng. Lá bài nhắc bạn nhận ra mình đang bị giam cầm bởi điều gì. Quan trọng là những xiềng xích ấy thường lỏng hơn bạn tưởng. Hãy nhìn thẳng vào bóng tối để hiểu nó.",
+  "reversed": "Ác Quỷ ngược là tín hiệu tích cực của sự giải thoát và phá bỏ xiềng xích. Bạn đang nhận ra những thứ trói buộc mình và bắt đầu vùng thoát khỏi cám dỗ hay thói quen độc hại. Đây là hành trình lấy lại tự do và quyền làm chủ bản thân. Hãy can đảm bước ra ánh sáng."
+ },
+ {
+  "id": 16,
+  "name": "The Tower",
+  "name_vi": "Tòa Tháp",
+  "arcana": "major",
+  "number": 16,
+  "upright_keywords": [
+   "đổ vỡ đột ngột",
+   "biến động",
+   "sự thật phơi bày",
+   "hỗn loạn",
+   "thức tỉnh"
+  ],
+  "reversed_keywords": [
+   "né tránh thảm họa",
+   "sợ thay đổi",
+   "đổ vỡ kéo dài",
+   "kháng cự sự thật",
+   "khủng hoảng âm ỉ"
+  ],
+  "upright": "Tòa Tháp báo hiệu một sự đổ vỡ đột ngột làm rung chuyển nền móng cũ. Dù gây sốc, biến động này phá tan những ảo tưởng và cấu trúc không còn vững chắc. Sự thật được phơi bày để bạn xây dựng lại trên nền tảng chân thực hơn. Hãy đón nhận sự thức tỉnh, dù nó đến trong cơn bão.",
+  "reversed": "Tòa Tháp ngược cho thấy bạn đang cố né tránh một sự đổ vỡ tất yếu hoặc kéo dài cơn khủng hoảng vì sợ thay đổi. Sự kháng cự khiến nỗi đau âm ỉ thay vì dứt khoát. Đôi khi trì hoãn điều không thể tránh chỉ làm mọi thứ tệ hơn. Hãy buông và để cái cũ sụp đổ để tái thiết."
+ },
+ {
+  "id": 17,
+  "name": "The Star",
+  "name_vi": "Ngôi Sao",
+  "arcana": "major",
+  "number": 17,
+  "upright_keywords": [
+   "hy vọng",
+   "niềm tin",
+   "chữa lành",
+   "cảm hứng",
+   "bình yên"
+  ],
+  "reversed_keywords": [
+   "mất hy vọng",
+   "tuyệt vọng",
+   "mất niềm tin",
+   "ngắt kết nối",
+   "nản lòng"
+  ],
+  "upright": "Ngôi Sao mang đến hy vọng, sự chữa lành và niềm tin sau giai đoạn khó khăn. Như ánh sao dẫn lối trong đêm, lá bài hứa hẹn bình yên và cảm hứng đang trở lại. Đây là lúc nuôi dưỡng tâm hồn, tin vào tương lai tươi sáng và để vũ trụ dẫn đường. Hãy giữ vững niềm tin, điều tốt đẹp đang đến.",
+  "reversed": "Ngôi Sao ngược phản ánh sự mất hy vọng, nản lòng và cảm giác ngắt kết nối với niềm tin. Có thể bạn đang cảm thấy tuyệt vọng hoặc đánh mất cảm hứng sống. Đây là lời nhắc nhẹ nhàng để tìm lại ánh sáng bên trong. Hãy chăm sóc bản thân và kiên nhẫn, hy vọng sẽ quay về."
+ },
+ {
+  "id": 18,
+  "name": "The Moon",
+  "name_vi": "Mặt Trăng",
+  "arcana": "major",
+  "number": 18,
+  "upright_keywords": [
+   "ảo ảnh",
+   "trực giác",
+   "tiềm thức",
+   "mơ hồ",
+   "nỗi sợ ẩn giấu"
+  ],
+  "reversed_keywords": [
+   "sự thật hé lộ",
+   "vượt qua sợ hãi",
+   "sáng tỏ",
+   "giải tỏa lo âu",
+   "minh bạch"
+  ],
+  "upright": "Mặt Trăng dẫn bạn vào vùng đất của ảo ảnh, trực giác và những điều chưa rõ ràng. Mọi thứ có thể không như vẻ bề ngoài, và nỗi sợ ẩn giấu có thể trỗi dậy. Đây là lúc tin vào trực giác và đối diện với những gì tiềm thức muốn nói. Hãy bước đi cẩn trọng qua màn sương mờ ảo này.",
+  "reversed": "Mặt Trăng ngược cho thấy sương mù đang tan và sự thật dần hé lộ. Những lo âu, hiểu lầm và nỗi sợ vô căn cứ bắt đầu được giải tỏa. Bạn đang lấy lại sự sáng tỏ và vượt qua những ảo ảnh từng che mắt. Hãy tin vào sự minh bạch đang đến gần."
+ },
+ {
+  "id": 19,
+  "name": "The Sun",
+  "name_vi": "Mặt Trời",
+  "arcana": "major",
+  "number": 19,
+  "upright_keywords": [
+   "niềm vui",
+   "thành công",
+   "sức sống",
+   "tích cực",
+   "sự thật rạng rỡ"
+  ],
+  "reversed_keywords": [
+   "lạc quan giả tạo",
+   "trì hoãn niềm vui",
+   "u ám tạm thời",
+   "thiếu năng lượng",
+   "tự nghi ngờ"
+  ],
+  "upright": "Mặt Trời là một trong những lá bài rạng rỡ nhất, mang theo niềm vui, thành công và sức sống tràn đầy. Mọi thứ trở nên sáng tỏ và tích cực, như ánh nắng sưởi ấm mọi ngóc ngách. Đây là thời điểm để tận hưởng, tỏa sáng và sống thật với chính mình. Hạnh phúc và sự viên mãn đang ở bên bạn.",
+  "reversed": "Mặt Trời ngược cho thấy niềm vui đang tạm bị che khuất bởi mây mù. Có thể bạn đang gắng gượng lạc quan, hoặc cảm thấy thiếu năng lượng và tự nghi ngờ. Ánh sáng vẫn còn đó, chỉ là tạm bị che. Hãy tìm lại những điều nhỏ bé khiến bạn mỉm cười và để năng lượng tích cực trở về."
+ },
+ {
+  "id": 20,
+  "name": "Judgement",
+  "name_vi": "Phán Xét",
+  "arcana": "major",
+  "number": 20,
+  "upright_keywords": [
+   "thức tỉnh",
+   "tái sinh",
+   "tha thứ",
+   "tiếng gọi",
+   "đánh giá"
+  ],
+  "reversed_keywords": [
+   "tự phán xét",
+   "phớt lờ tiếng gọi",
+   "hối tiếc",
+   "do dự",
+   "trốn tránh"
+  ],
+  "upright": "Phán Xét báo hiệu một sự thức tỉnh sâu sắc, một tiếng gọi để bước lên tầm cao mới. Đây là lúc nhìn lại quá khứ, tha thứ cho chính mình và người khác, rồi tái sinh với mục đích rõ ràng hơn. Bạn được kêu gọi đáp lại sứ mệnh đích thực của mình. Hãy lắng nghe và đứng dậy đón nhận sự chuyển hóa.",
+  "reversed": "Phán Xét ngược phản ánh sự tự phán xét khắc nghiệt hoặc việc phớt lờ tiếng gọi nội tâm. Có thể bạn đang chìm trong hối tiếc, do dự không dám thay đổi, hoặc trốn tránh trách nhiệm với chính mình. Hãy tha thứ cho bản thân và can đảm đáp lại tiếng gọi. Đừng để nỗi sợ ngăn bạn tái sinh."
+ },
+ {
+  "id": 21,
+  "name": "The World",
+  "name_vi": "Thế Giới",
+  "arcana": "major",
+  "number": 21,
+  "upright_keywords": [
+   "hoàn thành",
+   "viên mãn",
+   "thành tựu",
+   "trọn vẹn",
+   "du hành"
+  ],
+  "reversed_keywords": [
+   "dang dở",
+   "thiếu kết thúc",
+   "trì hoãn",
+   "mục tiêu chưa đạt",
+   "cảm giác mắc kẹt"
+  ],
+  "upright": "Thế Giới là lá bài của sự hoàn thành trọn vẹn, khép lại một chu kỳ lớn với thành tựu và viên mãn. Bạn đã đi hết một hành trình và giờ là lúc ăn mừng sự trọn vẹn. Cảm giác hòa hợp, thành công và kết nối với vũ trụ bao trùm. Một chương đẹp khép lại để mở ra hành trình mới.",
+  "reversed": "Thế Giới ngược cho thấy một điều gì đó còn dang dở, một chu kỳ chưa thể khép lại trọn vẹn. Có thể bạn đang gần đạt được mục tiêu nhưng còn thiếu mảnh ghép cuối, hoặc cảm thấy mắc kẹt không tiến tới. Hãy xác định điều còn thiếu và hoàn tất nó. Sự viên mãn đang ở rất gần."
+ },
+ {
+  "id": 22,
+  "name": "Ace of Wands",
+  "name_vi": "Át Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 1,
+  "upright_keywords": [
+   "cảm hứng",
+   "khởi đầu",
+   "tiềm năng",
+   "sáng tạo",
+   "đam mê"
+  ],
+  "reversed_keywords": [
+   "trì hoãn",
+   "thiếu động lực",
+   "ý tưởng chết yểu",
+   "mất cảm hứng"
+  ],
+  "upright": "Át Gậy là tia lửa của cảm hứng và một khởi đầu đầy đam mê. Một ý tưởng hoặc cơ hội mới đang bừng cháy, mời gọi bạn hành động. Năng lượng sáng tạo đang dâng trào mạnh mẽ. Hãy nắm bắt ngọn lửa này và để nó dẫn lối.",
+  "reversed": "Át Gậy ngược cho thấy cảm hứng đang bị dập tắt hoặc trì hoãn. Ý tưởng hay nhưng thiếu động lực để khởi động, hoặc thời điểm chưa chín. Hãy khơi lại ngọn lửa bên trong trước khi bắt đầu."
+ },
+ {
+  "id": 23,
+  "name": "Two of Wands",
+  "name_vi": "Hai Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 2,
+  "upright_keywords": [
+   "lập kế hoạch",
+   "tầm nhìn",
+   "quyết định",
+   "khám phá"
+  ],
+  "reversed_keywords": [
+   "thiếu kế hoạch",
+   "sợ rủi ro",
+   "do dự",
+   "tầm nhìn hẹp"
+  ],
+  "upright": "Hai Gậy nói về việc đứng trước thế giới rộng mở và lập kế hoạch cho tương lai. Bạn đang cân nhắc những con đường và xây dựng tầm nhìn dài hạn. Đây là lúc dám mơ lớn và bước ra khỏi vùng an toàn. Hãy chọn hướng đi với sự tự tin.",
+  "reversed": "Hai Gậy ngược phản ánh sự do dự và thiếu kế hoạch rõ ràng. Nỗi sợ rủi ro có thể khiến bạn chần chừ trước cơ hội. Hãy mở rộng tầm nhìn và can đảm quyết định."
+ },
+ {
+  "id": 24,
+  "name": "Three of Wands",
+  "name_vi": "Ba Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 3,
+  "upright_keywords": [
+   "mở rộng",
+   "tiến triển",
+   "tầm nhìn xa",
+   "cơ hội đến"
+  ],
+  "reversed_keywords": [
+   "trì hoãn",
+   "trở ngại",
+   "thiếu tầm nhìn",
+   "kế hoạch đổ bể"
+  ],
+  "upright": "Ba Gậy cho thấy những nỗ lực ban đầu bắt đầu đơm hoa, mở ra cơ hội mở rộng. Bạn đang nhìn về phía chân trời, chờ đợi kết quả của những hạt giống đã gieo. Đây là thời điểm thuận lợi để mở rộng quy mô. Hãy giữ tầm nhìn xa và kiên nhẫn.",
+  "reversed": "Ba Gậy ngược báo hiệu sự trì hoãn hoặc trở ngại trong kế hoạch mở rộng. Kết quả mong đợi có thể đến chậm hơn dự tính. Hãy xem lại chiến lược và điều chỉnh."
+ },
+ {
+  "id": 25,
+  "name": "Four of Wands",
+  "name_vi": "Bốn Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 4,
+  "upright_keywords": [
+   "ăn mừng",
+   "hòa hợp",
+   "mái ấm",
+   "cột mốc",
+   "ổn định"
+  ],
+  "reversed_keywords": [
+   "bất hòa gia đình",
+   "chuyển tiếp",
+   "thiếu ổn định",
+   "trì hoãn lễ kỷ niệm"
+  ],
+  "upright": "Bốn Gậy là lá bài của niềm vui, sự ăn mừng và cảm giác thuộc về. Một cột mốc đáng nhớ, một mái ấm hài hòa hoặc thành quả chung đang được tôn vinh. Đây là lúc tận hưởng sự ổn định và kết nối. Hãy chia sẻ niềm vui với những người thân yêu.",
+  "reversed": "Bốn Gậy ngược cho thấy sự bất hòa trong gia đình hoặc cảm giác thiếu ổn định. Một lễ kỷ niệm có thể bị trì hoãn, hoặc bạn đang trong giai đoạn chuyển tiếp. Hãy tìm lại sự hài hòa từ bên trong."
+ },
+ {
+  "id": 26,
+  "name": "Five of Wands",
+  "name_vi": "Năm Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 5,
+  "upright_keywords": [
+   "xung đột",
+   "cạnh tranh",
+   "bất đồng",
+   "thử thách"
+  ],
+  "reversed_keywords": [
+   "tránh xung đột",
+   "hòa giải",
+   "kết thúc tranh chấp",
+   "căng thẳng nội tâm"
+  ],
+  "upright": "Năm Gậy phản ánh sự cạnh tranh, xung đột và những bất đồng quan điểm. Có thể bạn đang ở giữa những tranh chấp hoặc một môi trường nhiều va chạm. Dù căng thẳng, đây là cơ hội rèn luyện và khẳng định bản thân. Hãy giữ tinh thần xây dựng giữa cuộc đua.",
+  "reversed": "Năm Gậy ngược cho thấy xung đột đang lắng xuống hoặc bạn chọn né tránh tranh cãi. Sự hòa giải đang đến gần. Hãy giải quyết căng thẳng còn tồn đọng một cách ôn hòa."
+ },
+ {
+  "id": 27,
+  "name": "Six of Wands",
+  "name_vi": "Sáu Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 6,
+  "upright_keywords": [
+   "chiến thắng",
+   "công nhận",
+   "thành công",
+   "tự hào"
+  ],
+  "reversed_keywords": [
+   "thất bại",
+   "thiếu công nhận",
+   "kiêu ngạo",
+   "tự nghi ngờ"
+  ],
+  "upright": "Sáu Gậy là khúc khải hoàn của chiến thắng và sự công nhận xứng đáng. Nỗ lực của bạn được tưởng thưởng và bạn nhận được sự ngưỡng mộ. Đây là lúc ngẩng cao đầu và tự hào về thành quả. Hãy đón nhận vinh quang với lòng biết ơn.",
+  "reversed": "Sáu Gậy ngược cho thấy sự thiếu công nhận hoặc một thất bại làm lung lay niềm tin. Cẩn thận với cả sự kiêu ngạo lẫn tự nghi ngờ. Hãy tìm sự công nhận từ chính giá trị bên trong."
+ },
+ {
+  "id": 28,
+  "name": "Seven of Wands",
+  "name_vi": "Bảy Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 7,
+  "upright_keywords": [
+   "bảo vệ lập trường",
+   "kiên định",
+   "thách thức",
+   "dũng cảm"
+  ],
+  "reversed_keywords": [
+   "kiệt sức",
+   "đầu hàng",
+   "áp lực quá tải",
+   "mất tự tin"
+  ],
+  "upright": "Bảy Gậy nói về việc đứng vững bảo vệ lập trường của mình trước thách thức. Bạn đang ở vị thế cần kiên định và can đảm đối mặt với áp lực. Dù khó khăn, niềm tin vào bản thân sẽ giúp bạn trụ vững. Hãy giữ vững vị trí và đừng dễ dàng nhượng bộ.",
+  "reversed": "Bảy Gậy ngược cho thấy sự kiệt sức và cảm giác bị áp lực quá tải. Có thể bạn đang muốn đầu hàng hoặc mất tự tin trước đối thủ. Hãy nghỉ ngơi, lấy lại sức và đánh giá xem cuộc chiến nào đáng để theo đuổi."
+ },
+ {
+  "id": 29,
+  "name": "Eight of Wands",
+  "name_vi": "Tám Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 8,
+  "upright_keywords": [
+   "chuyển động nhanh",
+   "tiến triển",
+   "tin tức",
+   "hành động"
+  ],
+  "reversed_keywords": [
+   "chậm trễ",
+   "trì hoãn",
+   "vội vàng",
+   "mất kiểm soát"
+  ],
+  "upright": "Tám Gậy mang theo năng lượng chuyển động nhanh và tiến triển dồn dập. Mọi việc đang tăng tốc, tin tức tốt và cơ hội đến nhanh chóng. Đây là lúc hành động kịp thời và để dòng chảy cuốn bạn về phía trước. Hãy sẵn sàng cho những thay đổi nhanh.",
+  "reversed": "Tám Gậy ngược cho thấy sự chậm trễ và trì hoãn ngoài ý muốn. Mọi thứ dường như ngưng trệ hoặc bạn đang quá vội vàng dẫn đến rối loạn. Hãy kiên nhẫn và điều chỉnh nhịp độ."
+ },
+ {
+  "id": 30,
+  "name": "Nine of Wands",
+  "name_vi": "Chín Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 9,
+  "upright_keywords": [
+   "kiên cường",
+   "bền bỉ",
+   "phòng thủ",
+   "gần đến đích"
+  ],
+  "reversed_keywords": [
+   "kiệt quệ",
+   "phòng thủ thái quá",
+   "bỏ cuộc",
+   "cố chấp"
+  ],
+  "upright": "Chín Gậy là biểu tượng của sự kiên cường khi bạn đã trải qua nhiều thử thách nhưng vẫn đứng vững. Dù mệt mỏi, bạn đang rất gần vạch đích. Đây là lúc tập hợp chút sức lực cuối cùng và không bỏ cuộc. Hãy tin rằng bạn đủ mạnh để vượt qua chặng cuối.",
+  "reversed": "Chín Gậy ngược cho thấy sự kiệt quệ và phòng thủ thái quá. Có thể bạn đang quá đề phòng hoặc muốn buông xuôi vì quá mỏi mệt. Hãy nghỉ ngơi và buông bớt sự cảnh giác không cần thiết."
+ },
+ {
+  "id": 31,
+  "name": "Ten of Wands",
+  "name_vi": "Mười Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 10,
+  "upright_keywords": [
+   "gánh nặng",
+   "trách nhiệm",
+   "áp lực",
+   "quá tải"
+  ],
+  "reversed_keywords": [
+   "buông bỏ gánh nặng",
+   "ủy thác",
+   "giải tỏa",
+   "kiệt sức tột độ"
+  ],
+  "upright": "Mười Gậy phản ánh gánh nặng và trách nhiệm chồng chất mà bạn đang gánh vác. Bạn đã cố gắng rất nhiều nhưng nay cảm thấy quá tải. Đây là lời nhắc xem lại bạn có đang ôm quá nhiều thứ một mình. Hãy học cách chia sẻ bớt gánh nặng.",
+  "reversed": "Mười Gậy ngược cho thấy bạn đang học cách buông bỏ những gánh nặng không cần thiết hoặc ủy thác bớt cho người khác. Đây là sự giải tỏa cần thiết. Hãy nhẹ lòng và đừng ôm hết mọi thứ vào mình."
+ },
+ {
+  "id": 32,
+  "name": "Page of Wands",
+  "name_vi": "Tiểu Đồng Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 11,
+  "upright_keywords": [
+   "háo hức",
+   "khám phá",
+   "ý tưởng mới",
+   "nhiệt huyết"
+  ],
+  "reversed_keywords": [
+   "thiếu định hướng",
+   "bốc đồng",
+   "tin xấu",
+   "trì hoãn dự án"
+  ],
+  "upright": "Tiểu Đồng Gậy mang năng lượng háo hức của một người trẻ đầy nhiệt huyết và ý tưởng mới. Đây là lúc khám phá, thử nghiệm và đón nhận tin vui về một dự án sáng tạo. Tinh thần phiêu lưu đang trỗi dậy. Hãy để sự tò mò dẫn bạn đến những chân trời mới.",
+  "reversed": "Tiểu Đồng Gậy ngược cho thấy sự thiếu định hướng và tính bốc đồng. Một dự án có thể bị trì hoãn hoặc có tin không như ý. Hãy tập trung và lập kế hoạch trước khi lao vào."
+ },
+ {
+  "id": 33,
+  "name": "Knight of Wands",
+  "name_vi": "Hiệp Sĩ Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 12,
+  "upright_keywords": [
+   "đam mê",
+   "hành động táo bạo",
+   "phiêu lưu",
+   "năng lượng"
+  ],
+  "reversed_keywords": [
+   "nóng vội",
+   "liều lĩnh",
+   "thiếu kiên nhẫn",
+   "bỏ dở giữa chừng"
+  ],
+  "upright": "Hiệp Sĩ Gậy lao về phía trước với đam mê và năng lượng bùng nổ. Đây là người hành động táo bạo, dám phiêu lưu và theo đuổi mục tiêu với nhiệt huyết cháy bỏng. Đã đến lúc dấn thân quyết liệt. Hãy để ngọn lửa đam mê dẫn lối, nhưng nhớ giữ phương hướng.",
+  "reversed": "Hiệp Sĩ Gậy ngược cảnh báo sự nóng vội và liều lĩnh thiếu suy nghĩ. Bạn có thể đang hành động bốc đồng hoặc dễ bỏ dở giữa chừng. Hãy kiềm chế năng lượng và kiên trì hơn với mục tiêu."
+ },
+ {
+  "id": 34,
+  "name": "Queen of Wands",
+  "name_vi": "Nữ Hoàng Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 13,
+  "upright_keywords": [
+   "tự tin",
+   "quyến rũ",
+   "độc lập",
+   "nhiệt huyết"
+  ],
+  "reversed_keywords": [
+   "thiếu tự tin",
+   "ghen tị",
+   "đòi hỏi",
+   "mất năng lượng"
+  ],
+  "upright": "Nữ Hoàng Gậy tỏa ra sự tự tin, quyến rũ và năng lượng ấm áp lôi cuốn. Bà là người độc lập, nhiệt huyết và truyền cảm hứng cho mọi người xung quanh. Đây là lúc tỏa sáng với cá tính riêng và lòng tự tin. Hãy sống thật rực rỡ và dẫn dắt bằng nhiệt huyết.",
+  "reversed": "Nữ Hoàng Gậy ngược cho thấy sự thiếu tự tin hoặc năng lượng bị cạn kiệt. Có thể xuất hiện cảm giác ghen tị hay đòi hỏi quá mức. Hãy tìm lại nguồn sức mạnh nội tâm và sự cân bằng."
+ },
+ {
+  "id": 35,
+  "name": "King of Wands",
+  "name_vi": "Vua Gậy",
+  "arcana": "minor",
+  "suit": "wands",
+  "number": 14,
+  "upright_keywords": [
+   "lãnh đạo",
+   "tầm nhìn",
+   "quyết đoán",
+   "truyền cảm hứng"
+  ],
+  "reversed_keywords": [
+   "độc đoán",
+   "bốc đồng",
+   "kỳ vọng quá cao",
+   "thiếu kiên nhẫn"
+  ],
+  "upright": "Vua Gậy là nhà lãnh đạo đầy tầm nhìn, quyết đoán và truyền cảm hứng. Ông biết biến đam mê thành hành động lớn lao và dẫn dắt người khác bằng sự tự tin. Đây là lúc nắm quyền chủ động và lãnh đạo bằng tầm nhìn rõ ràng. Hãy dám mơ lớn và hành động dứt khoát.",
+  "reversed": "Vua Gậy ngược cảnh báo sự độc đoán và bốc đồng trong lãnh đạo. Có thể bạn đang đặt kỳ vọng quá cao hoặc thiếu kiên nhẫn với người khác. Hãy lãnh đạo bằng sự thấu hiểu thay vì áp đặt."
+ },
+ {
+  "id": 36,
+  "name": "Ace of Cups",
+  "name_vi": "Át Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 1,
+  "upright_keywords": [
+   "tình yêu mới",
+   "cảm xúc tràn đầy",
+   "trực giác",
+   "khởi đầu tình cảm"
+  ],
+  "reversed_keywords": [
+   "cảm xúc bị kìm nén",
+   "trống rỗng",
+   "tình yêu chặn lại",
+   "tổn thương"
+  ],
+  "upright": "Át Cốc là chiếc ly tình cảm tràn đầy, mở ra một khởi đầu mới về tình yêu và cảm xúc. Trái tim bạn rộng mở để cho và nhận yêu thương. Đây là thời điểm của sự kết nối sâu sắc, lòng trắc ẩn và trực giác dâng trào. Hãy để cảm xúc tinh khôi này chảy tự do.",
+  "reversed": "Át Cốc ngược cho thấy cảm xúc đang bị kìm nén hoặc một tổn thương khiến trái tim khép lại. Có thể bạn đang cảm thấy trống rỗng hay khó mở lòng. Hãy chữa lành và cho phép bản thân cảm nhận trở lại."
+ },
+ {
+  "id": 37,
+  "name": "Two of Cups",
+  "name_vi": "Hai Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 2,
+  "upright_keywords": [
+   "kết nối",
+   "tình yêu đôi lứa",
+   "hòa hợp",
+   "đối tác"
+  ],
+  "reversed_keywords": [
+   "bất hòa",
+   "chia tay",
+   "mất cân bằng",
+   "hiểu lầm"
+  ],
+  "upright": "Hai Cốc là sự kết nối hài hòa giữa hai tâm hồn, biểu tượng của tình yêu và mối quan hệ cân bằng. Đây là lúc của sự gắn kết, thấu hiểu và tôn trọng lẫn nhau. Một mối quan hệ đẹp đang nảy nở hoặc bền chặt thêm. Hãy trân trọng sự kết nối sâu sắc này.",
+  "reversed": "Hai Cốc ngược phản ánh bất hòa hoặc mất cân bằng trong quan hệ. Hiểu lầm có thể khiến hai bên xa cách. Hãy đối thoại chân thành để hàn gắn hoặc nhìn nhận lại mối quan hệ."
+ },
+ {
+  "id": 38,
+  "name": "Three of Cups",
+  "name_vi": "Ba Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 3,
+  "upright_keywords": [
+   "tình bạn",
+   "ăn mừng",
+   "cộng đồng",
+   "niềm vui chung"
+  ],
+  "reversed_keywords": [
+   "cô lập",
+   "tiệc tùng thái quá",
+   "mâu thuẫn bạn bè",
+   "tin đồn"
+  ],
+  "upright": "Ba Cốc là khúc ca của tình bạn, sự ăn mừng và niềm vui được sẻ chia. Đây là lúc tụ họp, kết nối cộng đồng và tận hưởng những khoảnh khắc hạnh phúc bên nhau. Sự hỗ trợ từ bạn bè mang lại sức mạnh. Hãy nâng ly chúc mừng những điều tốt đẹp.",
+  "reversed": "Ba Cốc ngược cho thấy sự cô lập hoặc mâu thuẫn trong nhóm bạn. Có thể tin đồn hay tiệc tùng thái quá đang gây phiền toái. Hãy chọn lọc những kết nối thực sự nuôi dưỡng bạn."
+ },
+ {
+  "id": 39,
+  "name": "Four of Cups",
+  "name_vi": "Bốn Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 4,
+  "upright_keywords": [
+   "chán nản",
+   "thờ ơ",
+   "nội quan",
+   "bỏ lỡ cơ hội"
+  ],
+  "reversed_keywords": [
+   "tỉnh thức",
+   "đón nhận cơ hội",
+   "động lực mới",
+   "thoát khỏi trì trệ"
+  ],
+  "upright": "Bốn Cốc phản ánh trạng thái chán nản, thờ ơ và mải đắm chìm trong suy nghĩ. Bạn có thể đang bỏ lỡ những cơ hội ngay trước mắt vì quá mải mê với điều không có. Đây là lúc nhìn quanh và trân trọng những gì đang được trao. Hãy mở lòng đón nhận.",
+  "reversed": "Bốn Cốc ngược cho thấy bạn đang tỉnh thức khỏi sự trì trệ và sẵn sàng đón nhận cơ hội mới. Động lực và sự hứng khởi đang quay lại. Hãy nắm lấy điều tốt đẹp đang được trao."
+ },
+ {
+  "id": 40,
+  "name": "Five of Cups",
+  "name_vi": "Năm Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 5,
+  "upright_keywords": [
+   "mất mát",
+   "tiếc nuối",
+   "đau buồn",
+   "thất vọng"
+  ],
+  "reversed_keywords": [
+   "chấp nhận",
+   "chữa lành",
+   "tha thứ",
+   "tiến về phía trước"
+  ],
+  "upright": "Năm Cốc là nỗi buồn của mất mát và tiếc nuối khi ta chỉ nhìn vào những gì đã đổ vỡ. Dù đau buồn là cần thiết, lá bài nhắc rằng vẫn còn những chiếc cốc chưa đổ phía sau. Hãy cho phép mình đau, nhưng đừng quên những điều vẫn còn đó. Sự chữa lành bắt đầu khi ta ngoảnh lại.",
+  "reversed": "Năm Cốc ngược cho thấy bạn đang dần chấp nhận mất mát và bước vào quá trình chữa lành. Sự tha thứ và buông bỏ đang đến. Hãy nhẹ nhàng tiến về phía trước với hy vọng mới."
+ },
+ {
+  "id": 41,
+  "name": "Six of Cups",
+  "name_vi": "Sáu Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 6,
+  "upright_keywords": [
+   "hoài niệm",
+   "ký ức tuổi thơ",
+   "ngây thơ",
+   "đoàn tụ"
+  ],
+  "reversed_keywords": [
+   "mắc kẹt quá khứ",
+   "lý tưởng hóa",
+   "trưởng thành",
+   "buông quá khứ"
+  ],
+  "upright": "Sáu Cốc đưa bạn về miền ký ức ngọt ngào của tuổi thơ và sự ngây thơ trong sáng. Đây có thể là lúc đoàn tụ với người cũ hoặc tìm lại niềm vui giản dị. Những kỷ niệm đẹp nuôi dưỡng tâm hồn bạn. Hãy trân trọng sự ấm áp của quá khứ và tấm lòng chân thành.",
+  "reversed": "Sáu Cốc ngược cảnh báo việc mắc kẹt trong quá khứ hoặc lý tưởng hóa những điều đã qua. Đã đến lúc trưởng thành và sống cho hiện tại. Hãy giữ kỷ niệm đẹp nhưng buông bỏ những gì níu kéo."
+ },
+ {
+  "id": 42,
+  "name": "Seven of Cups",
+  "name_vi": "Bảy Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 7,
+  "upright_keywords": [
+   "lựa chọn",
+   "ảo tưởng",
+   "mơ mộng",
+   "cám dỗ"
+  ],
+  "reversed_keywords": [
+   "sáng tỏ",
+   "quyết định dứt khoát",
+   "tỉnh ngộ",
+   "tập trung"
+  ],
+  "upright": "Bảy Cốc bày ra vô số lựa chọn và những giấc mơ đầy mê hoặc trước mắt bạn. Tuy nhiên không phải tất cả đều thực tế, nhiều thứ chỉ là ảo tưởng. Đây là lúc cẩn trọng phân biệt giữa mơ mộng và điều khả thi. Hãy đặt chân xuống đất và chọn lựa khôn ngoan.",
+  "reversed": "Bảy Cốc ngược cho thấy bạn đang lấy lại sự sáng tỏ và thoát khỏi mê hoặc của quá nhiều lựa chọn. Sự tập trung và quyết định dứt khoát đang đến. Hãy chọn con đường thực tế nhất."
+ },
+ {
+  "id": 43,
+  "name": "Eight of Cups",
+  "name_vi": "Tám Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 8,
+  "upright_keywords": [
+   "rời bỏ",
+   "tìm kiếm ý nghĩa",
+   "buông bỏ",
+   "hành trình"
+  ],
+  "reversed_keywords": [
+   "sợ thay đổi",
+   "mắc kẹt",
+   "quay lại",
+   "trôi dạt"
+  ],
+  "upright": "Tám Cốc nói về quyết định can đảm rời bỏ điều quen thuộc để tìm kiếm ý nghĩa sâu sắc hơn. Dù những chiếc cốc phía sau từng quan trọng, trái tim bạn khao khát điều trọn vẹn hơn. Đây là hành trình của sự trưởng thành tâm hồn. Hãy dũng cảm bước đi tìm chân lý của mình.",
+  "reversed": "Tám Cốc ngược cho thấy bạn đang lưỡng lự giữa ở lại và ra đi, hoặc sợ thay đổi nên mắc kẹt. Có thể bạn đang trôi dạt không định hướng. Hãy lắng nghe trái tim để biết điều gì thực sự cần buông."
+ },
+ {
+  "id": 44,
+  "name": "Nine of Cups",
+  "name_vi": "Chín Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 9,
+  "upright_keywords": [
+   "mãn nguyện",
+   "ước nguyện thành",
+   "hạnh phúc",
+   "thỏa mãn"
+  ],
+  "reversed_keywords": [
+   "không thỏa mãn",
+   "tham lam",
+   "hạnh phúc bề ngoài",
+   "ước vọng chưa thành"
+  ],
+  "upright": "Chín Cốc được gọi là lá bài ước nguyện, báo hiệu sự mãn nguyện và hạnh phúc viên mãn. Những mong muốn của bạn đang trở thành hiện thực và bạn cảm thấy hài lòng với cuộc sống. Đây là lúc tận hưởng thành quả và lòng biết ơn. Hãy đón nhận niềm vui xứng đáng này.",
+  "reversed": "Chín Cốc ngược cho thấy sự không thỏa mãn dù bề ngoài có vẻ đủ đầy. Có thể bạn đang chạy theo những mong muốn vật chất mà quên hạnh phúc thật. Hãy nhìn lại điều gì thực sự khiến bạn mãn nguyện."
+ },
+ {
+  "id": 45,
+  "name": "Ten of Cups",
+  "name_vi": "Mười Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 10,
+  "upright_keywords": [
+   "hạnh phúc viên mãn",
+   "gia đình",
+   "hòa hợp",
+   "tình yêu trọn vẹn"
+  ],
+  "reversed_keywords": [
+   "bất hòa gia đình",
+   "giá trị lệch lạc",
+   "mơ vỡ",
+   "kết nối rạn nứt"
+  ],
+  "upright": "Mười Cốc là bức tranh hạnh phúc viên mãn của tình yêu và gia đình hòa thuận. Đây là sự trọn vẹn về mặt cảm xúc, khi các mối quan hệ tràn đầy yêu thương và bình yên. Bạn đang sống trong sự hài hòa mà mình hằng mơ ước. Hãy trân trọng tổ ấm và những kết nối quý giá.",
+  "reversed": "Mười Cốc ngược phản ánh sự bất hòa trong gia đình hoặc khoảng cách giữa thực tế và lý tưởng. Một kết nối có thể đang rạn nứt. Hãy vun đắp lại sự hài hòa và đối thoại chân thành."
+ },
+ {
+  "id": 46,
+  "name": "Page of Cups",
+  "name_vi": "Tiểu Đồng Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 11,
+  "upright_keywords": [
+   "sáng tạo",
+   "trực giác",
+   "tin vui tình cảm",
+   "mơ mộng"
+  ],
+  "reversed_keywords": [
+   "cảm xúc non nớt",
+   "trốn tránh",
+   "mơ mộng hão",
+   "tin buồn"
+  ],
+  "upright": "Tiểu Đồng Cốc mang đến năng lượng nhạy cảm, mơ mộng và trực giác tinh tế. Đây có thể là tin vui về tình cảm hoặc một cảm hứng sáng tạo bất ngờ. Trái tim bạn rộng mở đón nhận điều kỳ diệu. Hãy lắng nghe tiếng nói của trực giác và sự dịu dàng bên trong.",
+  "reversed": "Tiểu Đồng Cốc ngược cho thấy cảm xúc non nớt hoặc xu hướng trốn tránh thực tế bằng mơ mộng. Có thể có tin không vui về tình cảm. Hãy trưởng thành hơn trong cách xử lý cảm xúc."
+ },
+ {
+  "id": 47,
+  "name": "Knight of Cups",
+  "name_vi": "Hiệp Sĩ Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 12,
+  "upright_keywords": [
+   "lãng mạn",
+   "lời mời gọi",
+   "theo đuổi cảm xúc",
+   "quyến rũ"
+  ],
+  "reversed_keywords": [
+   "mơ mộng viển vông",
+   "thất thường",
+   "thao túng cảm xúc",
+   "ảo tưởng tình yêu"
+  ],
+  "upright": "Hiệp Sĩ Cốc là người lãng mạn, theo đuổi trái tim mình với sự dịu dàng và quyến rũ. Một lời mời gọi tình cảm hoặc cơ hội sáng tạo đẹp đẽ đang đến. Đây là lúc hành động theo tiếng gọi của con tim. Hãy để cảm xúc dẫn lối nhưng giữ cho mình tỉnh táo.",
+  "reversed": "Hiệp Sĩ Cốc ngược cảnh báo sự mơ mộng viển vông hoặc cảm xúc thất thường. Cẩn thận với những lời hứa hẹn ngọt ngào nhưng thiếu thực chất. Hãy phân biệt giữa lãng mạn thật và ảo tưởng."
+ },
+ {
+  "id": 48,
+  "name": "Queen of Cups",
+  "name_vi": "Nữ Hoàng Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 13,
+  "upright_keywords": [
+   "trắc ẩn",
+   "đồng cảm",
+   "trực giác",
+   "nuôi dưỡng"
+  ],
+  "reversed_keywords": [
+   "quá nhạy cảm",
+   "phụ thuộc cảm xúc",
+   "kiệt sức",
+   "mất ranh giới"
+  ],
+  "upright": "Nữ Hoàng Cốc là hiện thân của lòng trắc ẩn, sự đồng cảm và trực giác sâu sắc. Bà thấu hiểu cảm xúc của mình và người khác, nuôi dưỡng bằng tình yêu vô điều kiện. Đây là lúc lắng nghe trái tim và chăm sóc đời sống tinh thần. Hãy dịu dàng với chính mình và mọi người.",
+  "reversed": "Nữ Hoàng Cốc ngược cho thấy sự quá nhạy cảm hoặc kiệt sức vì cho đi quá nhiều. Có thể bạn đang mất ranh giới cảm xúc hoặc phụ thuộc vào người khác. Hãy chăm sóc bản thân trước khi chăm sóc người khác."
+ },
+ {
+  "id": 49,
+  "name": "King of Cups",
+  "name_vi": "Vua Cốc",
+  "arcana": "minor",
+  "suit": "cups",
+  "number": 14,
+  "upright_keywords": [
+   "điềm tĩnh cảm xúc",
+   "khôn ngoan",
+   "bao dung",
+   "cân bằng"
+  ],
+  "reversed_keywords": [
+   "dồn nén cảm xúc",
+   "thao túng",
+   "ủ rũ",
+   "mất kiểm soát"
+  ],
+  "upright": "Vua Cốc làm chủ cảm xúc của mình bằng sự điềm tĩnh, khôn ngoan và lòng bao dung. Ông cân bằng giữa lý trí và trái tim, là chỗ dựa vững vàng cho người khác. Đây là lúc xử lý vấn đề bằng sự bình tĩnh và trưởng thành. Hãy dẫn dắt bằng lòng trắc ẩn và sự chín chắn.",
+  "reversed": "Vua Cốc ngược cho thấy cảm xúc bị dồn nén hoặc mất kiểm soát. Có thể bạn đang ủ rũ, hoặc dùng cảm xúc để thao túng. Hãy thành thật với cảm xúc của mình và tìm lại sự cân bằng."
+ },
+ {
+  "id": 50,
+  "name": "Ace of Swords",
+  "name_vi": "Át Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 1,
+  "upright_keywords": [
+   "sáng tỏ",
+   "sự thật",
+   "đột phá tư duy",
+   "quyết định"
+  ],
+  "reversed_keywords": [
+   "mơ hồ",
+   "ý tưởng nhầm lẫn",
+   "lạm dụng sức mạnh",
+   "bế tắc tư duy"
+  ],
+  "upright": "Át Kiếm là tia chớp của sự sáng tỏ và chân lý, cắt phăng mọi mơ hồ. Một ý tưởng đột phá hoặc nhận thức mới đang đến, giúp bạn nhìn rõ sự thật. Đây là lúc tư duy sắc bén và đưa ra quyết định dứt khoát. Hãy dùng lý trí minh mẫn để khai thông con đường.",
+  "reversed": "Át Kiếm ngược cho thấy sự mơ hồ trong suy nghĩ hoặc ý tưởng bị nhầm lẫn. Có thể bạn đang bế tắc hoặc dùng lý lẽ sai cách. Hãy làm rõ suy nghĩ trước khi hành động."
+ },
+ {
+  "id": 51,
+  "name": "Two of Swords",
+  "name_vi": "Hai Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 2,
+  "upright_keywords": [
+   "bế tắc quyết định",
+   "do dự",
+   "cân nhắc",
+   "né tránh"
+  ],
+  "reversed_keywords": [
+   "lưỡng lự kéo dài",
+   "sự thật phơi bày",
+   "quyết định cuối",
+   "quá tải thông tin"
+  ],
+  "upright": "Hai Kiếm phản ánh tình thế bế tắc khi bạn phải đưa ra quyết định khó khăn nhưng vẫn do dự. Tấm khăn bịt mắt cho thấy bạn đang tránh nhìn thẳng vào sự thật. Đây là lúc cần can đảm tháo bỏ rào cản và đối diện lựa chọn. Hãy lắng nghe cả lý trí lẫn trái tim.",
+  "reversed": "Hai Kiếm ngược cho thấy sự lưỡng lự đã kéo dài quá lâu, hoặc sự thật cuối cùng cũng phơi bày. Đã đến lúc đưa ra quyết định dứt khoát. Đừng để mình mắc kẹt trong do dự mãi."
+ },
+ {
+  "id": 52,
+  "name": "Three of Swords",
+  "name_vi": "Ba Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 3,
+  "upright_keywords": [
+   "đau lòng",
+   "tổn thương",
+   "chia ly",
+   "nỗi buồn"
+  ],
+  "reversed_keywords": [
+   "chữa lành",
+   "tha thứ",
+   "vượt qua đau khổ",
+   "giải tỏa"
+  ],
+  "upright": "Ba Kiếm là hình ảnh trái tim bị xuyên thấu, biểu tượng cho nỗi đau lòng và tổn thương. Có thể bạn đang trải qua chia ly, phản bội hay thất vọng sâu sắc. Dù đau đớn, việc thừa nhận nỗi buồn là bước đầu để chữa lành. Hãy cho phép mình khóc và rồi từ từ hồi phục.",
+  "reversed": "Ba Kiếm ngược cho thấy quá trình chữa lành đang diễn ra sau tổn thương. Bạn đang dần buông bỏ nỗi đau và học cách tha thứ. Hãy kiên nhẫn với trái tim mình, sự bình an đang trở lại."
+ },
+ {
+  "id": 53,
+  "name": "Four of Swords",
+  "name_vi": "Bốn Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 4,
+  "upright_keywords": [
+   "nghỉ ngơi",
+   "hồi phục",
+   "tĩnh tâm",
+   "tạm dừng"
+  ],
+  "reversed_keywords": [
+   "kiệt sức",
+   "bồn chồn",
+   "trì hoãn hồi phục",
+   "cô lập"
+  ],
+  "upright": "Bốn Kiếm mời gọi bạn dừng lại để nghỉ ngơi và hồi phục sau căng thẳng. Đây là thời gian tĩnh tâm, nạp lại năng lượng và để tâm trí lắng dịu. Sự nghỉ ngơi không phải yếu đuối mà là cần thiết để tiếp tục. Hãy cho mình khoảng lặng để chữa lành.",
+  "reversed": "Bốn Kiếm ngược cho thấy bạn đang kiệt sức nhưng không cho phép mình nghỉ, hoặc bồn chồn không yên. Có thể đã đến lúc bước ra khỏi sự trì trệ. Hãy lắng nghe cơ thể, biết khi nào cần dừng và khi nào nên tiếp tục."
+ },
+ {
+  "id": 54,
+  "name": "Five of Swords",
+  "name_vi": "Năm Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 5,
+  "upright_keywords": [
+   "xung đột",
+   "thắng bằng mọi giá",
+   "mâu thuẫn",
+   "căng thẳng"
+  ],
+  "reversed_keywords": [
+   "hòa giải",
+   "buông bỏ hận thù",
+   "rút lui",
+   "sửa sai"
+  ],
+  "upright": "Năm Kiếm phản ánh xung đột và chiến thắng đạt được bằng mọi giá, kể cả tổn hại mối quan hệ. Có thể bạn đang ở giữa một cuộc tranh chấp cay đắng. Lá bài nhắc rằng không phải cuộc chiến nào cũng đáng để thắng. Hãy cân nhắc cái giá của việc hơn thua.",
+  "reversed": "Năm Kiếm ngược cho thấy mong muốn hòa giải và buông bỏ hận thù sau xung đột. Đây là lúc sửa chữa quan hệ rạn nứt hoặc rút lui khỏi cuộc chiến vô nghĩa. Hãy chọn sự bình an thay vì cái tôi."
+ },
+ {
+  "id": 55,
+  "name": "Six of Swords",
+  "name_vi": "Sáu Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 6,
+  "upright_keywords": [
+   "chuyển tiếp",
+   "rời xa khó khăn",
+   "hồi phục dần",
+   "hành trình"
+  ],
+  "reversed_keywords": [
+   "mắc kẹt",
+   "kháng cự thay đổi",
+   "hành trình gián đoạn",
+   "mang theo gánh nặng cũ"
+  ],
+  "upright": "Sáu Kiếm là hành trình rời xa vùng nước động để đến nơi bình yên hơn. Bạn đang dần chuyển tiếp khỏi giai đoạn khó khăn, dù vẫn còn mang theo chút buồn. Đây là sự hồi phục từ từ và hy vọng đang đến gần. Hãy tin rằng bờ bên kia êm đềm hơn.",
+  "reversed": "Sáu Kiếm ngược cho thấy bạn đang mắc kẹt không thể tiến tới, hoặc kháng cự sự thay đổi cần thiết. Có thể bạn vẫn mang theo gánh nặng cũ. Hãy buông bỏ để hành trình tiếp tục."
+ },
+ {
+  "id": 56,
+  "name": "Seven of Swords",
+  "name_vi": "Bảy Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 7,
+  "upright_keywords": [
+   "mưu mẹo",
+   "lẩn tránh",
+   "chiến lược",
+   "giữ bí mật"
+  ],
+  "reversed_keywords": [
+   "bị phơi bày",
+   "thú nhận",
+   "trở lại trung thực",
+   "hậu quả lừa dối"
+  ],
+  "upright": "Bảy Kiếm nói về sự mưu mẹo, chiến lược lén lút hoặc né tránh đối đầu trực diện. Có thể bạn đang giữ bí mật, hoặc cần khôn khéo để đạt mục tiêu. Lá bài cũng cảnh báo về sự không trung thực quanh bạn. Hãy hành động khôn ngoan nhưng giữ liêm chính.",
+  "reversed": "Bảy Kiếm ngược cho thấy sự lừa dối đang bị phơi bày, hoặc bạn đang quay về với sự trung thực. Có thể là lúc thú nhận và đối diện hậu quả. Hãy chọn con đường ngay thẳng."
+ },
+ {
+  "id": 57,
+  "name": "Eight of Swords",
+  "name_vi": "Tám Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 8,
+  "upright_keywords": [
+   "mắc kẹt",
+   "tự giới hạn",
+   "bất lực",
+   "sợ hãi"
+  ],
+  "reversed_keywords": [
+   "giải phóng",
+   "tìm lối thoát",
+   "tự do",
+   "nhận ra sức mạnh"
+  ],
+  "upright": "Tám Kiếm phản ánh cảm giác mắc kẹt và bất lực, nhưng thực ra những ràng buộc phần lớn do tâm trí tự tạo. Người phụ nữ bị trói có thể tự cởi trói nếu nhận ra. Đây là lời nhắc rằng nỗi sợ đang giam cầm bạn nhiều hơn hoàn cảnh thật. Hãy thay đổi góc nhìn để tìm lối ra.",
+  "reversed": "Tám Kiếm ngược cho thấy bạn đang giải phóng mình khỏi những giới hạn tự áp đặt. Bạn nhận ra sức mạnh bên trong và tìm được lối thoát. Hãy can đảm bước ra khỏi nhà tù tâm trí."
+ },
+ {
+  "id": 58,
+  "name": "Nine of Swords",
+  "name_vi": "Chín Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 9,
+  "upright_keywords": [
+   "lo âu",
+   "mất ngủ",
+   "ám ảnh",
+   "sợ hãi ban đêm"
+  ],
+  "reversed_keywords": [
+   "giải tỏa lo lắng",
+   "hy vọng trở lại",
+   "đối diện nỗi sợ",
+   "phục hồi"
+  ],
+  "upright": "Chín Kiếm là hình ảnh của những đêm trắng vì lo âu, ám ảnh và sợ hãi. Tâm trí bạn đang quay cuồng với những suy nghĩ tiêu cực, thường phóng đại hơn thực tế. Đây là lúc nhận ra nhiều nỗi sợ chỉ nằm trong đầu. Hãy tìm sự hỗ trợ và đừng để bóng đêm nuốt chửng.",
+  "reversed": "Chín Kiếm ngược cho thấy lo âu đang dần được giải tỏa và hy vọng trở lại. Bạn đang đối diện nỗi sợ và bắt đầu phục hồi. Hãy chia sẻ gánh nặng và tin rằng ánh sáng đang tới."
+ },
+ {
+  "id": 59,
+  "name": "Ten of Swords",
+  "name_vi": "Mười Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 10,
+  "upright_keywords": [
+   "kết thúc đau đớn",
+   "chạm đáy",
+   "phản bội",
+   "tổn thất"
+  ],
+  "reversed_keywords": [
+   "hồi phục",
+   "vượt qua đáy vực",
+   "kết thúc khổ đau",
+   "tái sinh"
+  ],
+  "upright": "Mười Kiếm là điểm chạm đáy, một sự kết thúc đau đớn nhưng cũng là dứt điểm. Dù cảm giác như mọi thứ sụp đổ, đây là lúc tồi tệ nhất đã qua và chỉ còn đường đi lên. Bình minh luôn đến sau đêm tối nhất. Hãy chấp nhận sự kết thúc này như khởi đầu mới.",
+  "reversed": "Mười Kiếm ngược cho thấy bạn đang hồi phục sau giai đoạn tồi tệ nhất. Khổ đau đang lùi lại và sự tái sinh bắt đầu. Hãy đứng dậy, điều tồi tệ đã qua."
+ },
+ {
+  "id": 60,
+  "name": "Page of Swords",
+  "name_vi": "Tiểu Đồng Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 11,
+  "upright_keywords": [
+   "tò mò",
+   "ham học hỏi",
+   "cảnh giác",
+   "ý tưởng mới"
+  ],
+  "reversed_keywords": [
+   "nói nhiều",
+   "tin đồn",
+   "hấp tấp",
+   "thiếu kế hoạch"
+  ],
+  "upright": "Tiểu Đồng Kiếm mang năng lượng tò mò, sắc bén và khao khát tri thức. Đây là lúc đặt câu hỏi, học hỏi và quan sát mọi việc một cách tỉnh táo. Tinh thần ham hiểu biết giúp bạn nắm bắt thông tin mới. Hãy giữ sự cảnh giác và tư duy phản biện.",
+  "reversed": "Tiểu Đồng Kiếm ngược cảnh báo việc nói nhiều, lan truyền tin đồn hoặc hành động hấp tấp thiếu suy nghĩ. Hãy cẩn thận với lời nói và kiểm chứng thông tin trước khi tin."
+ },
+ {
+  "id": 61,
+  "name": "Knight of Swords",
+  "name_vi": "Hiệp Sĩ Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 12,
+  "upright_keywords": [
+   "quyết liệt",
+   "hành động nhanh",
+   "tham vọng",
+   "trực diện"
+  ],
+  "reversed_keywords": [
+   "hấp tấp",
+   "liều lĩnh",
+   "thiếu suy nghĩ",
+   "gây hấn"
+  ],
+  "upright": "Hiệp Sĩ Kiếm lao tới với tốc độ và quyết tâm không gì cản nổi. Đây là người hành động nhanh, tư duy sắc bén và theo đuổi mục tiêu một cách trực diện. Đã đến lúc dấn thân quyết liệt với ý chí mạnh mẽ. Hãy hành động dứt khoát nhưng đừng quên cân nhắc hậu quả.",
+  "reversed": "Hiệp Sĩ Kiếm ngược cảnh báo sự hấp tấp, liều lĩnh và lời nói gây hấn. Bạn có thể đang hành động quá vội mà thiếu suy xét. Hãy chậm lại và tính toán kỹ trước khi xông tới."
+ },
+ {
+  "id": 62,
+  "name": "Queen of Swords",
+  "name_vi": "Nữ Hoàng Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 13,
+  "upright_keywords": [
+   "sắc sảo",
+   "độc lập",
+   "trung thực",
+   "ranh giới rõ ràng"
+  ],
+  "reversed_keywords": [
+   "lạnh lùng",
+   "cay nghiệt",
+   "cô lập",
+   "phán xét gay gắt"
+  ],
+  "upright": "Nữ Hoàng Kiếm là người phụ nữ sắc sảo, độc lập và trung thực thẳng thắn. Bà tư duy rõ ràng, đặt ranh giới vững vàng và nhìn thấu mọi việc không bị cảm xúc che mờ. Đây là lúc suy nghĩ khách quan và nói lên sự thật. Hãy dùng trí tuệ và sự công bằng để dẫn đường.",
+  "reversed": "Nữ Hoàng Kiếm ngược cho thấy sự lạnh lùng, cay nghiệt hoặc phán xét quá gay gắt. Có thể bạn đang khép kín và cô lập bản thân bằng lý trí. Hãy cân bằng sự sắc bén với lòng cảm thông."
+ },
+ {
+  "id": 63,
+  "name": "King of Swords",
+  "name_vi": "Vua Kiếm",
+  "arcana": "minor",
+  "suit": "swords",
+  "number": 14,
+  "upright_keywords": [
+   "lý trí",
+   "công bằng",
+   "quyền uy trí tuệ",
+   "quyết đoán"
+  ],
+  "reversed_keywords": [
+   "lạm dụng quyền lực",
+   "cứng nhắc",
+   "thao túng",
+   "lạnh lùng độc đoán"
+  ],
+  "upright": "Vua Kiếm là hiện thân của lý trí, sự công bằng và quyền uy trí tuệ. Ông đưa ra quyết định dựa trên logic, đạo đức và sự thật, không để cảm xúc lung lay. Đây là lúc tư duy chiến lược và hành động với sự chính trực. Hãy lãnh đạo bằng trí tuệ minh mẫn và công minh.",
+  "reversed": "Vua Kiếm ngược cảnh báo sự lạm dụng quyền lực, cứng nhắc hoặc dùng lý trí để thao túng. Có thể bạn đang quá lạnh lùng và độc đoán. Hãy dùng sức mạnh trí tuệ một cách công bằng và nhân văn."
+ },
+ {
+  "id": 64,
+  "name": "Ace of Pentacles",
+  "name_vi": "Át Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 1,
+  "upright_keywords": [
+   "cơ hội mới",
+   "thịnh vượng",
+   "khởi đầu vật chất",
+   "nền tảng"
+  ],
+  "reversed_keywords": [
+   "cơ hội bỏ lỡ",
+   "bất ổn tài chính",
+   "kế hoạch tồi",
+   "thiếu nền tảng"
+  ],
+  "upright": "Át Tiền là hạt giống của thịnh vượng, mở ra một cơ hội mới về tài chính, sự nghiệp hoặc vật chất. Đây là nền tảng vững chắc để xây dựng điều lâu bền và thực tế. Vũ trụ đang trao cho bạn một khởi đầu đầy hứa hẹn. Hãy nắm lấy và vun trồng nó một cách kiên nhẫn.",
+  "reversed": "Át Tiền ngược cho thấy một cơ hội có thể bị bỏ lỡ hoặc nền tảng tài chính chưa vững. Có thể kế hoạch chưa thực tế hoặc thời điểm chưa chín. Hãy xây dựng nền móng chắc chắn trước khi tiến tới."
+ },
+ {
+  "id": 65,
+  "name": "Two of Pentacles",
+  "name_vi": "Hai Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 2,
+  "upright_keywords": [
+   "cân bằng",
+   "linh hoạt",
+   "quản lý ưu tiên",
+   "thích nghi"
+  ],
+  "reversed_keywords": [
+   "quá tải",
+   "mất cân bằng",
+   "luộm thuộm",
+   "căng thẳng tài chính"
+  ],
+  "upright": "Hai Tiền nói về nghệ thuật giữ thăng bằng giữa nhiều ưu tiên cùng lúc. Bạn đang khéo léo xoay xở giữa công việc, tài chính và cuộc sống với sự linh hoạt. Đây là lúc thích nghi và sắp xếp thông minh. Hãy giữ nhịp điệu uyển chuyển để không thứ gì rơi xuống.",
+  "reversed": "Hai Tiền ngược cho thấy bạn đang quá tải và mất cân bằng khi ôm quá nhiều việc. Tài chính hoặc thời gian đang căng thẳng. Hãy ưu tiên lại và buông bớt những gánh nặng không cần thiết."
+ },
+ {
+  "id": 66,
+  "name": "Three of Pentacles",
+  "name_vi": "Ba Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 3,
+  "upright_keywords": [
+   "hợp tác",
+   "kỹ năng",
+   "làm việc nhóm",
+   "xây dựng"
+  ],
+  "reversed_keywords": [
+   "thiếu hợp tác",
+   "kỹ năng kém",
+   "mâu thuẫn nhóm",
+   "làm việc đơn lẻ"
+  ],
+  "upright": "Ba Tiền tôn vinh sức mạnh của hợp tác và kỹ năng được công nhận. Bạn đang xây dựng điều gì đó cùng những người tài năng khác, mỗi người đóng góp phần của mình. Đây là lúc làm việc nhóm và học hỏi lẫn nhau. Hãy trân trọng sự cộng tác và tay nghề.",
+  "reversed": "Ba Tiền ngược cho thấy sự thiếu hợp tác hoặc mâu thuẫn trong nhóm. Có thể kỹ năng chưa đủ hoặc thiếu sự phối hợp. Hãy cải thiện giao tiếp và trau dồi năng lực."
+ },
+ {
+  "id": 67,
+  "name": "Four of Pentacles",
+  "name_vi": "Bốn Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 4,
+  "upright_keywords": [
+   "giữ gìn",
+   "an toàn tài chính",
+   "tiết kiệm",
+   "kiểm soát"
+  ],
+  "reversed_keywords": [
+   "keo kiệt",
+   "bám víu",
+   "sợ mất mát",
+   "buông bỏ kiểm soát"
+  ],
+  "upright": "Bốn Tiền phản ánh mong muốn giữ gìn và bảo vệ những gì mình có. Đây là lúc tiết kiệm, ổn định tài chính và xây dựng cảm giác an toàn. Tuy nhiên hãy cẩn thận đừng giữ chặt đến mức bóp nghẹt. Sự an toàn là tốt khi không biến thành nỗi sợ mất mát.",
+  "reversed": "Bốn Tiền ngược cảnh báo sự keo kiệt và bám víu thái quá vào vật chất. Nỗi sợ mất mát có thể đang kiểm soát bạn. Hãy học cách cho đi và buông lỏng sự kiểm soát."
+ },
+ {
+  "id": 68,
+  "name": "Five of Pentacles",
+  "name_vi": "Năm Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 5,
+  "upright_keywords": [
+   "khó khăn tài chính",
+   "thiếu thốn",
+   "cô đơn",
+   "mất mát"
+  ],
+  "reversed_keywords": [
+   "hồi phục",
+   "tìm được hỗ trợ",
+   "vượt qua khó khăn",
+   "hy vọng mới"
+  ],
+  "upright": "Năm Tiền phản ánh giai đoạn khó khăn về tài chính, sức khỏe hoặc tinh thần. Cảm giác thiếu thốn và bị bỏ rơi có thể bao trùm. Tuy nhiên lá bài nhắc rằng sự giúp đỡ vẫn ở gần nếu bạn dám tìm đến. Đừng để niềm kiêu hãnh ngăn bạn đón nhận hỗ trợ.",
+  "reversed": "Năm Tiền ngược cho thấy bạn đang hồi phục sau khó khăn và tìm lại sự ổn định. Sự hỗ trợ đang đến và hy vọng mới hé mở. Hãy đón nhận giúp đỡ và tin vào sự cải thiện."
+ },
+ {
+  "id": 69,
+  "name": "Six of Pentacles",
+  "name_vi": "Sáu Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 6,
+  "upright_keywords": [
+   "cho đi và nhận lại",
+   "hào phóng",
+   "cân bằng",
+   "sẻ chia"
+  ],
+  "reversed_keywords": [
+   "bất bình đẳng",
+   "nợ nần",
+   "cho đi có điều kiện",
+   "lợi dụng"
+  ],
+  "upright": "Sáu Tiền nói về sự cân bằng giữa cho đi và nhận lại, lòng hào phóng và sẻ chia. Đây là lúc bạn ở vị thế có thể giúp đỡ người khác, hoặc nhận được sự hỗ trợ xứng đáng. Dòng chảy của sự rộng lượng đang vận hành. Hãy cho đi từ trái tim và đón nhận với lòng biết ơn.",
+  "reversed": "Sáu Tiền ngược cảnh báo sự mất cân bằng trong cho và nhận, hoặc lòng tốt có điều kiện. Cẩn thận với nợ nần hoặc bị lợi dụng. Hãy đảm bảo sự công bằng trong các mối quan hệ trao đổi."
+ },
+ {
+  "id": 70,
+  "name": "Seven of Pentacles",
+  "name_vi": "Bảy Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 7,
+  "upright_keywords": [
+   "kiên nhẫn",
+   "đầu tư dài hạn",
+   "đánh giá",
+   "chờ thu hoạch"
+  ],
+  "reversed_keywords": [
+   "thiếu kiên nhẫn",
+   "nỗ lực vô ích",
+   "đầu tư sai",
+   "bỏ cuộc sớm"
+  ],
+  "upright": "Bảy Tiền là khoảnh khắc dừng lại đánh giá thành quả sau thời gian dài vun trồng. Bạn đang chờ đợi mùa thu hoạch và cân nhắc xem nỗ lực có đang đi đúng hướng. Đây là lúc kiên nhẫn với những đầu tư dài hạn. Hãy tin rằng sự bền bỉ sẽ được đền đáp.",
+  "reversed": "Bảy Tiền ngược cho thấy sự thiếu kiên nhẫn hoặc cảm giác nỗ lực không mang lại kết quả. Có thể bạn đang đầu tư sai chỗ hoặc muốn bỏ cuộc quá sớm. Hãy đánh giá lại và điều chỉnh chiến lược."
+ },
+ {
+  "id": 71,
+  "name": "Eight of Pentacles",
+  "name_vi": "Tám Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 8,
+  "upright_keywords": [
+   "chăm chỉ",
+   "rèn luyện kỹ năng",
+   "tỉ mỉ",
+   "tận tâm"
+  ],
+  "reversed_keywords": [
+   "lười biếng",
+   "làm cẩu thả",
+   "thiếu tập trung",
+   "cầu toàn quá mức"
+  ],
+  "upright": "Tám Tiền ca ngợi sự chăm chỉ, tận tâm và không ngừng mài giũa kỹ năng. Bạn đang miệt mài lao động, chú trọng từng chi tiết để đạt đến sự tinh thông. Đây là lúc đầu tư vào việc trau dồi tay nghề. Hãy kiên trì với công việc, sự thành thạo sẽ đến từ nỗ lực bền bỉ.",
+  "reversed": "Tám Tiền ngược cho thấy sự lười biếng, cẩu thả hoặc mất tập trung trong công việc. Ngược lại, có thể bạn đang cầu toàn quá mức đến kiệt sức. Hãy tìm lại đam mê và sự cân bằng trong lao động."
+ },
+ {
+  "id": 72,
+  "name": "Nine of Pentacles",
+  "name_vi": "Chín Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 9,
+  "upright_keywords": [
+   "độc lập",
+   "thịnh vượng",
+   "tự chủ tài chính",
+   "tận hưởng thành quả"
+  ],
+  "reversed_keywords": [
+   "phụ thuộc",
+   "chi tiêu quá đà",
+   "thành quả hời hợt",
+   "bất an tài chính"
+  ],
+  "upright": "Chín Tiền là hình ảnh của sự độc lập, thịnh vượng và tận hưởng thành quả tự mình gây dựng. Bạn đã làm việc chăm chỉ và giờ xứng đáng tận hưởng sự sung túc và tự do. Đây là lúc trân trọng những gì mình đạt được. Hãy tận hưởng vẻ đẹp của sự tự chủ và viên mãn.",
+  "reversed": "Chín Tiền ngược cho thấy sự phụ thuộc về tài chính hoặc chi tiêu thiếu kiểm soát. Có thể thành quả còn hời hợt hoặc bạn đang bất an. Hãy xây dựng sự độc lập thật sự và quản lý tài chính khôn ngoan."
+ },
+ {
+  "id": 73,
+  "name": "Ten of Pentacles",
+  "name_vi": "Mười Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 10,
+  "upright_keywords": [
+   "thịnh vượng bền vững",
+   "gia sản",
+   "ổn định lâu dài",
+   "di sản"
+  ],
+  "reversed_keywords": [
+   "bất ổn tài chính",
+   "tranh chấp tài sản",
+   "mất di sản",
+   "tầm nhìn ngắn hạn"
+  ],
+  "upright": "Mười Tiền là đỉnh cao của sự thịnh vượng bền vững, gia sản và an toàn lâu dài. Đây là sự giàu có không chỉ về vật chất mà còn về gia đình, truyền thống và di sản. Bạn đang gặt hái thành quả có thể truyền lại cho thế hệ sau. Hãy trân trọng nền tảng vững chắc mình đã xây.",
+  "reversed": "Mười Tiền ngược cảnh báo sự bất ổn tài chính hoặc tranh chấp về tài sản, gia đình. Có thể bạn đang chỉ nhìn lợi ích ngắn hạn. Hãy xây dựng sự ổn định lâu dài và giải quyết mâu thuẫn về vật chất."
+ },
+ {
+  "id": 74,
+  "name": "Page of Pentacles",
+  "name_vi": "Tiểu Đồng Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 11,
+  "upright_keywords": [
+   "học hỏi",
+   "cơ hội mới",
+   "tham vọng thực tế",
+   "kiên trì"
+  ],
+  "reversed_keywords": [
+   "thiếu tiến bộ",
+   "trì hoãn",
+   "mơ mộng thiếu hành động",
+   "cơ hội lãng phí"
+  ],
+  "upright": "Tiểu Đồng Tiền mang năng lượng ham học hỏi và khao khát xây dựng điều bền vững. Đây là lúc bắt đầu một dự án, khóa học hay cơ hội thực tế đầy hứa hẹn. Tinh thần cầu tiến và kiên trì sẽ đưa bạn đi xa. Hãy đặt mục tiêu rõ ràng và từng bước thực hiện.",
+  "reversed": "Tiểu Đồng Tiền ngược cho thấy sự trì hoãn hoặc mơ mộng mà thiếu hành động. Một cơ hội có thể bị lãng phí vì thiếu cam kết. Hãy biến ý tưởng thành hành động cụ thể."
+ },
+ {
+  "id": 75,
+  "name": "Knight of Pentacles",
+  "name_vi": "Hiệp Sĩ Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 12,
+  "upright_keywords": [
+   "chăm chỉ",
+   "đáng tin cậy",
+   "kiên định",
+   "trách nhiệm"
+  ],
+  "reversed_keywords": [
+   "trì trệ",
+   "bảo thủ",
+   "nhàm chán",
+   "cứng nhắc"
+  ],
+  "upright": "Hiệp Sĩ Tiền là người chăm chỉ, đáng tin cậy và kiên trì theo đuổi mục tiêu một cách bền bỉ. Tuy chậm rãi nhưng chắc chắn, ông luôn hoàn thành trách nhiệm của mình. Đây là lúc làm việc có phương pháp và đáng tin. Hãy kiên định với cam kết, sự bền bỉ sẽ mang lại kết quả vững chắc.",
+  "reversed": "Hiệp Sĩ Tiền ngược cho thấy sự trì trệ, bảo thủ hoặc mắc kẹt trong lối mòn nhàm chán. Có thể bạn đang quá cứng nhắc và ngại thay đổi. Hãy tìm lại động lực và linh hoạt hơn một chút."
+ },
+ {
+  "id": 76,
+  "name": "Queen of Pentacles",
+  "name_vi": "Nữ Hoàng Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 13,
+  "upright_keywords": [
+   "nuôi dưỡng",
+   "thực tế",
+   "sung túc",
+   "chu đáo"
+  ],
+  "reversed_keywords": [
+   "bỏ bê bản thân",
+   "quá vật chất",
+   "mất cân bằng",
+   "phụ thuộc tài chính"
+  ],
+  "upright": "Nữ Hoàng Tiền là người phụ nữ chu đáo, thực tế và biết tạo dựng cuộc sống sung túc, ấm áp. Bà chăm sóc gia đình và sự nghiệp một cách khéo léo, vừa nuôi dưỡng vừa vững vàng về vật chất. Đây là lúc cân bằng giữa công việc và tổ ấm. Hãy chăm sóc cả bản thân lẫn những người mình yêu.",
+  "reversed": "Nữ Hoàng Tiền ngược cho thấy sự mất cân bằng, có thể bạn đang bỏ bê bản thân hoặc quá chú trọng vật chất. Cũng có thể là sự phụ thuộc tài chính. Hãy tìm lại sự hài hòa giữa cho đi và tự chăm sóc."
+ },
+ {
+  "id": 77,
+  "name": "King of Pentacles",
+  "name_vi": "Vua Tiền",
+  "arcana": "minor",
+  "suit": "pentacles",
+  "number": 14,
+  "upright_keywords": [
+   "thịnh vượng",
+   "ổn định",
+   "lãnh đạo thực tế",
+   "an toàn"
+  ],
+  "reversed_keywords": [
+   "tham lam",
+   "vật chất hóa",
+   "bảo thủ tài chính",
+   "lạm dụng quyền lực"
+  ],
+  "upright": "Vua Tiền là hiện thân của sự thịnh vượng, ổn định và thành công vật chất được xây dựng vững chắc. Ông là nhà lãnh đạo thực tế, hào phóng và đáng tin, biết quản lý tài sản và con người khôn ngoan. Đây là lúc gặt hái thành quả và chia sẻ sự sung túc. Hãy lãnh đạo bằng sự vững vàng và rộng lượng.",
+  "reversed": "Vua Tiền ngược cảnh báo sự tham lam, quá đặt nặng vật chất hoặc bảo thủ về tài chính. Có thể bạn đang dùng tiền bạc hay quyền lực không đúng cách. Hãy nhớ rằng giàu có thật sự còn nằm ở giá trị và lòng rộng lượng."
+ }
+]
